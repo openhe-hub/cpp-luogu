@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\2121-carpet.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\2121-carpet.dir/objects.a @CMakeFiles\2121-carpet.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2121-carpet.dir/objects.a -Wl,--no-whole-archive -o 2121-carpet.exe -Wl,--out-implib,lib2121-carpet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2121-carpet.dir\linklibs.rsp

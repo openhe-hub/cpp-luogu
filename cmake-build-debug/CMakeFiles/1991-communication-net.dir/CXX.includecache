@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp project/luogu/graph/1991-communication-net.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+queue
+-
+cmath
+-
+cstring
+-
+

@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\5322-play-war.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\5322-play-war.dir/objects.a @CMakeFiles\5322-play-war.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\5322-play-war.dir/objects.a -Wl,--no-whole-archive -o 5322-play-war.exe -Wl,--out-implib,lib5322-play-war.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\5322-play-war.dir\linklibs.rsp

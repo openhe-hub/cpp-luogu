@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\weight_segment_tree_demo.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\weight_segment_tree_demo.dir/objects.a @CMakeFiles\weight_segment_tree_demo.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\weight_segment_tree_demo.dir/objects.a -Wl,--no-whole-archive -o weight_segment_tree_demo.exe -Wl,--out-implib,libweight_segment_tree_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\weight_segment_tree_demo.dir\linklibs.rsp

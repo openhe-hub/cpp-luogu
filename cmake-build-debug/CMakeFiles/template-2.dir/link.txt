@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\template-2.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\template-2.dir/objects.a @CMakeFiles\template-2.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\template-2.dir/objects.a -Wl,--no-whole-archive -o template-2.exe -Wl,--out-implib,libtemplate-2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\template-2.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\1002-horse.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\1002-horse.dir/objects.a @CMakeFiles\1002-horse.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1002-horse.dir/objects.a -Wl,--no-whole-archive -o 1002-horse.exe -Wl,--out-implib,lib1002-horse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1002-horse.dir\linklibs.rsp

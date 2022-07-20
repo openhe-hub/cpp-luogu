@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\4408-search-boy.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\4408-search-boy.dir/objects.a @CMakeFiles\4408-search-boy.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\4408-search-boy.dir/objects.a -Wl,--no-whole-archive -o 4408-search-boy.exe -Wl,--out-implib,lib4408-search-boy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\4408-search-boy.dir\linklibs.rsp

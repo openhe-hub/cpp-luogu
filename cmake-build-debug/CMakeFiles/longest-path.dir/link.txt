@@ -1,0 +1,3 @@
+D:\software\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\longest-path.dir/objects.a
+D:\MinGw\bin\ar.exe cr CMakeFiles\longest-path.dir/objects.a @CMakeFiles\longest-path.dir\objects1.rsp
+D:\MinGw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\longest-path.dir/objects.a -Wl,--no-whole-archive  -o longest-path.exe -Wl,--out-implib,liblongest-path.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\longest-path.dir\linklibs.rsp
