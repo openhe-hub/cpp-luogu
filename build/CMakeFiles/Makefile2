@@ -196,6 +196,7 @@ all: CMakeFiles/3958-cheese.dir/all
 all: CMakeFiles/1111-restore-roads.dir/all
 all: CMakeFiles/4776-dijkstra.dir/all
 all: CMakeFiles/3366-kruskal.dir/all
+all: CMakeFiles/1722c_word_game.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -337,6 +338,7 @@ clean: CMakeFiles/3958-cheese.dir/clean
 clean: CMakeFiles/1111-restore-roads.dir/clean
 clean: CMakeFiles/4776-dijkstra.dir/clean
 clean: CMakeFiles/3366-kruskal.dir/clean
+clean: CMakeFiles/1722c_word_game.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -476,7 +478,7 @@ CMakeFiles/1364-min-distance.dir/clean:
 CMakeFiles/3370-string-hash.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3370-string-hash.dir\build.make CMakeFiles/3370-string-hash.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3370-string-hash.dir\build.make CMakeFiles/3370-string-hash.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=51 "Built target 3370-string-hash"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=52 "Built target 3370-string-hash"
 .PHONY : CMakeFiles/3370-string-hash.dir/all
 
 # Build rule for subdir invocation for target.
@@ -528,12 +530,12 @@ CMakeFiles/1102-minus-problem.dir/clean:
 CMakeFiles/1955-analyze-program.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1955-analyze-program.dir\build.make CMakeFiles/1955-analyze-program.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1955-analyze-program.dir\build.make CMakeFiles/1955-analyze-program.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1955-analyze-program"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=34 "Built target 1955-analyze-program"
 .PHONY : CMakeFiles/1955-analyze-program.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1955-analyze-program.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1955-analyze-program.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1955-analyze-program.dir/rule
@@ -554,12 +556,12 @@ CMakeFiles/1955-analyze-program.dir/clean:
 CMakeFiles/2078-friends.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2078-friends.dir\build.make CMakeFiles/2078-friends.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2078-friends.dir\build.make CMakeFiles/2078-friends.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=38 "Built target 2078-friends"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2078-friends"
 .PHONY : CMakeFiles/2078-friends.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2078-friends.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2078-friends.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2078-friends.dir/rule
@@ -606,12 +608,12 @@ CMakeFiles/2256-race-judgement.dir/clean:
 CMakeFiles/3366-mst.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3366-mst.dir\build.make CMakeFiles/3366-mst.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3366-mst.dir\build.make CMakeFiles/3366-mst.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3366-mst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=51 "Built target 3366-mst"
 .PHONY : CMakeFiles/3366-mst.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3366-mst.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3366-mst.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3366-mst.dir/rule
@@ -632,12 +634,12 @@ CMakeFiles/3366-mst.dir/clean:
 CMakeFiles/1991-communication-net.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1991-communication-net.dir\build.make CMakeFiles/1991-communication-net.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1991-communication-net.dir\build.make CMakeFiles/1991-communication-net.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=35 "Built target 1991-communication-net"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1991-communication-net"
 .PHONY : CMakeFiles/1991-communication-net.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1991-communication-net.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1991-communication-net.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1991-communication-net.dir/rule
@@ -658,12 +660,12 @@ CMakeFiles/1991-communication-net.dir/clean:
 CMakeFiles/1194-buy-gift.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1194-buy-gift.dir\build.make CMakeFiles/1194-buy-gift.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1194-buy-gift.dir\build.make CMakeFiles/1194-buy-gift.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=17 "Built target 1194-buy-gift"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1194-buy-gift"
 .PHONY : CMakeFiles/1194-buy-gift.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1194-buy-gift.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1194-buy-gift.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1194-buy-gift.dir/rule
@@ -684,12 +686,12 @@ CMakeFiles/1194-buy-gift.dir/clean:
 CMakeFiles/1194-buy-gift-prim.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1194-buy-gift-prim.dir\build.make CMakeFiles/1194-buy-gift-prim.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1194-buy-gift-prim.dir\build.make CMakeFiles/1194-buy-gift-prim.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1194-buy-gift-prim"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=17 "Built target 1194-buy-gift-prim"
 .PHONY : CMakeFiles/1194-buy-gift-prim.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1194-buy-gift-prim.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1194-buy-gift-prim.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1194-buy-gift-prim.dir/rule
@@ -710,12 +712,12 @@ CMakeFiles/1194-buy-gift-prim.dir/clean:
 CMakeFiles/4779-dijkstra.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4779-dijkstra.dir\build.make CMakeFiles/4779-dijkstra.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4779-dijkstra.dir\build.make CMakeFiles/4779-dijkstra.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=60 "Built target 4779-dijkstra"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 4779-dijkstra"
 .PHONY : CMakeFiles/4779-dijkstra.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/4779-dijkstra.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/4779-dijkstra.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/4779-dijkstra.dir/rule
@@ -736,12 +738,12 @@ CMakeFiles/4779-dijkstra.dir/clean:
 CMakeFiles/1629-post-path.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1629-post-path.dir\build.make CMakeFiles/1629-post-path.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1629-post-path.dir\build.make CMakeFiles/1629-post-path.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=27 "Built target 1629-post-path"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1629-post-path"
 .PHONY : CMakeFiles/1629-post-path.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1629-post-path.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1629-post-path.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1629-post-path.dir/rule
@@ -944,7 +946,7 @@ CMakeFiles/1048-gather-herb.dir/clean:
 CMakeFiles/2918-buy-hay.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2918-buy-hay.dir\build.make CMakeFiles/2918-buy-hay.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2918-buy-hay.dir\build.make CMakeFiles/2918-buy-hay.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=48 "Built target 2918-buy-hay"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=49 "Built target 2918-buy-hay"
 .PHONY : CMakeFiles/2918-buy-hay.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1100,12 +1102,12 @@ CMakeFiles/2014-choose-class.dir/clean:
 CMakeFiles/5318-search.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5318-search.dir\build.make CMakeFiles/5318-search.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5318-search.dir\build.make CMakeFiles/5318-search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=63 "Built target 5318-search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 5318-search"
 .PHONY : CMakeFiles/5318-search.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/5318-search.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/5318-search.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/5318-search.dir/rule
@@ -1152,12 +1154,12 @@ CMakeFiles/3916-traverse.dir/clean:
 CMakeFiles/1807-longest-path.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1807-longest-path.dir\build.make CMakeFiles/1807-longest-path.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1807-longest-path.dir\build.make CMakeFiles/1807-longest-path.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=29 "Built target 1807-longest-path"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1807-longest-path"
 .PHONY : CMakeFiles/1807-longest-path.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1807-longest-path.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1807-longest-path.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1807-longest-path.dir/rule
@@ -1178,12 +1180,12 @@ CMakeFiles/1807-longest-path.dir/clean:
 CMakeFiles/bellman-ford.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bellman-ford.dir\build.make CMakeFiles/bellman-ford.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bellman-ford.dir\build.make CMakeFiles/bellman-ford.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=69 "Built target bellman-ford"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target bellman-ford"
 .PHONY : CMakeFiles/bellman-ford.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/bellman-ford.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/bellman-ford.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/bellman-ford.dir/rule
@@ -1204,12 +1206,12 @@ CMakeFiles/bellman-ford.dir/clean:
 CMakeFiles/4017-food-chain.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4017-food-chain.dir\build.make CMakeFiles/4017-food-chain.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4017-food-chain.dir\build.make CMakeFiles/4017-food-chain.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=57 "Built target 4017-food-chain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 4017-food-chain"
 .PHONY : CMakeFiles/4017-food-chain.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/4017-food-chain.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/4017-food-chain.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/4017-food-chain.dir/rule
@@ -1308,12 +1310,12 @@ CMakeFiles/mex.dir/clean:
 CMakeFiles/2121-carpet.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2121-carpet.dir\build.make CMakeFiles/2121-carpet.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2121-carpet.dir\build.make CMakeFiles/2121-carpet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2121-carpet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=40 "Built target 2121-carpet"
 .PHONY : CMakeFiles/2121-carpet.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2121-carpet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2121-carpet.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2121-carpet.dir/rule
@@ -1464,12 +1466,12 @@ CMakeFiles/toposort.dir/clean:
 CMakeFiles/discretization.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\discretization.dir\build.make CMakeFiles/discretization.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\discretization.dir\build.make CMakeFiles/discretization.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target discretization"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=77 "Built target discretization"
 .PHONY : CMakeFiles/discretization.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/discretization.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/discretization.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/discretization.dir/rule
@@ -1490,12 +1492,12 @@ CMakeFiles/discretization.dir/clean:
 CMakeFiles/discretization2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\discretization2.dir\build.make CMakeFiles/discretization2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\discretization2.dir\build.make CMakeFiles/discretization2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=77 "Built target discretization2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target discretization2"
 .PHONY : CMakeFiles/discretization2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/discretization2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/discretization2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/discretization2.dir/rule
@@ -1594,12 +1596,12 @@ CMakeFiles/1002-horse.dir/clean:
 CMakeFiles/2196-mine.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2196-mine.dir\build.make CMakeFiles/2196-mine.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2196-mine.dir\build.make CMakeFiles/2196-mine.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=40 "Built target 2196-mine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2196-mine"
 .PHONY : CMakeFiles/2196-mine.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2196-mine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2196-mine.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2196-mine.dir/rule
@@ -1672,7 +1674,7 @@ CMakeFiles/1091-chorus.dir/clean:
 CMakeFiles/2722-score.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2722-score.dir\build.make CMakeFiles/2722-score.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2722-score.dir\build.make CMakeFiles/2722-score.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=45 "Built target 2722-score"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=46 "Built target 2722-score"
 .PHONY : CMakeFiles/2722-score.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1698,12 +1700,12 @@ CMakeFiles/2722-score.dir/clean:
 CMakeFiles/1833-sakura.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1833-sakura.dir\build.make CMakeFiles/1833-sakura.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1833-sakura.dir\build.make CMakeFiles/1833-sakura.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1833-sakura"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=31 "Built target 1833-sakura"
 .PHONY : CMakeFiles/1833-sakura.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1833-sakura.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1833-sakura.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1833-sakura.dir/rule
@@ -1776,12 +1778,12 @@ CMakeFiles/1044-stack.dir/clean:
 CMakeFiles/1754-ticket.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1754-ticket.dir\build.make CMakeFiles/1754-ticket.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1754-ticket.dir\build.make CMakeFiles/1754-ticket.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1754-ticket"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=28 "Built target 1754-ticket"
 .PHONY : CMakeFiles/1754-ticket.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1754-ticket.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1754-ticket.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1754-ticket.dir/rule
@@ -1828,12 +1830,12 @@ CMakeFiles/2615-magic.dir/clean:
 CMakeFiles/2661-friend.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2661-friend.dir\build.make CMakeFiles/2661-friend.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2661-friend.dir\build.make CMakeFiles/2661-friend.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2661-friend"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=45 "Built target 2661-friend"
 .PHONY : CMakeFiles/2661-friend.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2661-friend.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2661-friend.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2661-friend.dir/rule
@@ -2010,12 +2012,12 @@ CMakeFiles/trie-demo.dir/clean:
 CMakeFiles/3879-reading.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3879-reading.dir\build.make CMakeFiles/3879-reading.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3879-reading.dir\build.make CMakeFiles/3879-reading.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=54 "Built target 3879-reading"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3879-reading"
 .PHONY : CMakeFiles/3879-reading.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3879-reading.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3879-reading.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3879-reading.dir/rule
@@ -2088,12 +2090,12 @@ CMakeFiles/ac-demo2.dir/clean:
 CMakeFiles/ac-demo3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac-demo3.dir\build.make CMakeFiles/ac-demo3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac-demo3.dir\build.make CMakeFiles/ac-demo3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target ac-demo3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=69 "Built target ac-demo3"
 .PHONY : CMakeFiles/ac-demo3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ac-demo3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac-demo3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/ac-demo3.dir/rule
@@ -2114,12 +2116,12 @@ CMakeFiles/ac-demo3.dir/clean:
 CMakeFiles/3966-count.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3966-count.dir\build.make CMakeFiles/3966-count.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3966-count.dir\build.make CMakeFiles/3966-count.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3966-count"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=57 "Built target 3966-count"
 .PHONY : CMakeFiles/3966-count.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3966-count.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3966-count.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3966-count.dir/rule
@@ -2140,12 +2142,12 @@ CMakeFiles/3966-count.dir/clean:
 CMakeFiles/high_precision.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\high_precision.dir\build.make CMakeFiles/high_precision.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\high_precision.dir\build.make CMakeFiles/high_precision.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=83 "Built target high_precision"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target high_precision"
 .PHONY : CMakeFiles/high_precision.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/high_precision.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/high_precision.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/high_precision.dir/rule
@@ -2166,12 +2168,12 @@ CMakeFiles/high_precision.dir/clean:
 CMakeFiles/high-precision2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\high-precision2.dir\build.make CMakeFiles/high-precision2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\high-precision2.dir\build.make CMakeFiles/high-precision2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target high-precision2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=83 "Built target high-precision2"
 .PHONY : CMakeFiles/high-precision2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/high-precision2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/high-precision2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/high-precision2.dir/rule
@@ -2218,12 +2220,12 @@ CMakeFiles/1037-generation.dir/clean:
 CMakeFiles/fast-power.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fast-power.dir\build.make CMakeFiles/fast-power.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\fast-power.dir\build.make CMakeFiles/fast-power.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target fast-power"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=80 "Built target fast-power"
 .PHONY : CMakeFiles/fast-power.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/fast-power.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/fast-power.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/fast-power.dir/rule
@@ -2374,12 +2376,12 @@ CMakeFiles/1168-mid.dir/clean:
 CMakeFiles/2345-cow-market.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2345-cow-market.dir\build.make CMakeFiles/2345-cow-market.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2345-cow-market.dir\build.make CMakeFiles/2345-cow-market.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2345-cow-market"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=43 "Built target 2345-cow-market"
 .PHONY : CMakeFiles/2345-cow-market.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2345-cow-market.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2345-cow-market.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2345-cow-market.dir/rule
@@ -2400,12 +2402,12 @@ CMakeFiles/2345-cow-market.dir/clean:
 CMakeFiles/1880-combination.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1880-combination.dir\build.make CMakeFiles/1880-combination.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1880-combination.dir\build.make CMakeFiles/1880-combination.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=32 "Built target 1880-combination"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1880-combination"
 .PHONY : CMakeFiles/1880-combination.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1880-combination.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1880-combination.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1880-combination.dir/rule
@@ -2452,7 +2454,7 @@ CMakeFiles/1908-reversed-pair.dir/clean:
 CMakeFiles/1774-nearest-god.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1774-nearest-god.dir\build.make CMakeFiles/1774-nearest-god.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1774-nearest-god.dir\build.make CMakeFiles/1774-nearest-god.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=28 "Built target 1774-nearest-god"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=29 "Built target 1774-nearest-god"
 .PHONY : CMakeFiles/1774-nearest-god.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2478,12 +2480,12 @@ CMakeFiles/1774-nearest-god.dir/clean:
 CMakeFiles/5057-binary-operation.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5057-binary-operation.dir\build.make CMakeFiles/5057-binary-operation.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5057-binary-operation.dir\build.make CMakeFiles/5057-binary-operation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 5057-binary-operation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=63 "Built target 5057-binary-operation"
 .PHONY : CMakeFiles/5057-binary-operation.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/5057-binary-operation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/5057-binary-operation.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/5057-binary-operation.dir/rule
@@ -2608,12 +2610,12 @@ CMakeFiles/EK-demo.dir/clean:
 CMakeFiles/2740-drainage.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2740-drainage.dir\build.make CMakeFiles/2740-drainage.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2740-drainage.dir\build.make CMakeFiles/2740-drainage.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=46 "Built target 2740-drainage"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2740-drainage"
 .PHONY : CMakeFiles/2740-drainage.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2740-drainage.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2740-drainage.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2740-drainage.dir/rule
@@ -2686,12 +2688,12 @@ CMakeFiles/2756-pilot-match.dir/clean:
 CMakeFiles/3254-table-arrange.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3254-table-arrange.dir\build.make CMakeFiles/3254-table-arrange.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3254-table-arrange.dir\build.make CMakeFiles/3254-table-arrange.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=49 "Built target 3254-table-arrange"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3254-table-arrange"
 .PHONY : CMakeFiles/3254-table-arrange.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3254-table-arrange.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3254-table-arrange.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3254-table-arrange.dir/rule
@@ -2712,12 +2714,12 @@ CMakeFiles/3254-table-arrange.dir/clean:
 CMakeFiles/2763-arrange-test.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2763-arrange-test.dir\build.make CMakeFiles/2763-arrange-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2763-arrange-test.dir\build.make CMakeFiles/2763-arrange-test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2763-arrange-test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=48 "Built target 2763-arrange-test"
 .PHONY : CMakeFiles/2763-arrange-test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2763-arrange-test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2763-arrange-test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2763-arrange-test.dir/rule
@@ -2790,12 +2792,12 @@ CMakeFiles/4408-search-boy.dir/clean:
 CMakeFiles/depend-bag.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\depend-bag.dir\build.make CMakeFiles/depend-bag.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\depend-bag.dir\build.make CMakeFiles/depend-bag.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target depend-bag"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=74 "Built target depend-bag"
 .PHONY : CMakeFiles/depend-bag.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/depend-bag.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/depend-bag.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/depend-bag.dir/rule
@@ -2868,12 +2870,12 @@ CMakeFiles/1621-set.dir/clean:
 CMakeFiles/floyd-demo.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\floyd-demo.dir\build.make CMakeFiles/floyd-demo.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\floyd-demo.dir\build.make CMakeFiles/floyd-demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=80 "Built target floyd-demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target floyd-demo"
 .PHONY : CMakeFiles/floyd-demo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/floyd-demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/floyd-demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/floyd-demo.dir/rule
@@ -2894,7 +2896,7 @@ CMakeFiles/floyd-demo.dir/clean:
 CMakeFiles/1841-important-cities.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1841-important-cities.dir\build.make CMakeFiles/1841-important-cities.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1841-important-cities.dir\build.make CMakeFiles/1841-important-cities.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=31 "Built target 1841-important-cities"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=32 "Built target 1841-important-cities"
 .PHONY : CMakeFiles/1841-important-cities.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2946,12 +2948,12 @@ CMakeFiles/spfa-demo.dir/clean:
 CMakeFiles/dijkstra-demo.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dijkstra-demo.dir\build.make CMakeFiles/dijkstra-demo.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\dijkstra-demo.dir\build.make CMakeFiles/dijkstra-demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=74 "Built target dijkstra-demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target dijkstra-demo"
 .PHONY : CMakeFiles/dijkstra-demo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dijkstra-demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/dijkstra-demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/dijkstra-demo.dir/rule
@@ -2998,12 +3000,12 @@ CMakeFiles/3385-neg-ring.dir/clean:
 CMakeFiles/2384-smallest-product.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-smallest-product.dir\build.make CMakeFiles/2384-smallest-product.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-smallest-product.dir\build.make CMakeFiles/2384-smallest-product.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=43 "Built target 2384-smallest-product"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2384-smallest-product"
 .PHONY : CMakeFiles/2384-smallest-product.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2384-smallest-product.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2384-smallest-product.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2384-smallest-product.dir/rule
@@ -3024,12 +3026,12 @@ CMakeFiles/2384-smallest-product.dir/clean:
 CMakeFiles/3831-return-home.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3831-return-home.dir\build.make CMakeFiles/3831-return-home.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3831-return-home.dir\build.make CMakeFiles/3831-return-home.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3831-return-home"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=54 "Built target 3831-return-home"
 .PHONY : CMakeFiles/3831-return-home.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3831-return-home.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3831-return-home.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3831-return-home.dir/rule
@@ -3102,7 +3104,7 @@ CMakeFiles/build-road.dir/clean:
 CMakeFiles/1972-necklace.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1972-necklace.dir\build.make CMakeFiles/1972-necklace.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1972-necklace.dir\build.make CMakeFiles/1972-necklace.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=34 "Built target 1972-necklace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=35 "Built target 1972-necklace"
 .PHONY : CMakeFiles/1972-necklace.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3232,7 +3234,7 @@ CMakeFiles/segment_tree_demo2.dir/clean:
 CMakeFiles/2023-sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2023-sequence.dir\build.make CMakeFiles/2023-sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2023-sequence.dir\build.make CMakeFiles/2023-sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=37 "Built target 2023-sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=38 "Built target 2023-sequence"
 .PHONY : CMakeFiles/2023-sequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3258,12 +3260,12 @@ CMakeFiles/2023-sequence.dir/clean:
 CMakeFiles/1513-hate.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1513-hate.dir\build.make CMakeFiles/1513-hate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1513-hate.dir\build.make CMakeFiles/1513-hate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1513-hate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=24 "Built target 1513-hate"
 .PHONY : CMakeFiles/1513-hate.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1513-hate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1513-hate.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1513-hate.dir/rule
@@ -3388,12 +3390,12 @@ CMakeFiles/loj-145-dfn2.dir/clean:
 CMakeFiles/3384-tree-chain-template.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3384-tree-chain-template.dir\build.make CMakeFiles/3384-tree-chain-template.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3384-tree-chain-template.dir\build.make CMakeFiles/3384-tree-chain-template.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=52 "Built target 3384-tree-chain-template"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 3384-tree-chain-template"
 .PHONY : CMakeFiles/3384-tree-chain-template.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3384-tree-chain-template.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3384-tree-chain-template.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/3384-tree-chain-template.dir/rule
@@ -3414,12 +3416,12 @@ CMakeFiles/3384-tree-chain-template.dir/clean:
 CMakeFiles/Erichsen-screen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Erichsen-screen.dir\build.make CMakeFiles/Erichsen-screen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Erichsen-screen.dir\build.make CMakeFiles/Erichsen-screen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target Erichsen-screen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=66 "Built target Erichsen-screen"
 .PHONY : CMakeFiles/Erichsen-screen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Erichsen-screen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Erichsen-screen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/Erichsen-screen.dir/rule
@@ -3440,12 +3442,12 @@ CMakeFiles/Erichsen-screen.dir/clean:
 CMakeFiles/Euler-screen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Euler-screen.dir\build.make CMakeFiles/Euler-screen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Euler-screen.dir\build.make CMakeFiles/Euler-screen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=66 "Built target Euler-screen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target Euler-screen"
 .PHONY : CMakeFiles/Euler-screen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Euler-screen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Euler-screen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/Euler-screen.dir/rule
@@ -3466,12 +3468,12 @@ CMakeFiles/Euler-screen.dir/clean:
 CMakeFiles/2021_test.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2021_test.dir\build.make CMakeFiles/2021_test.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2021_test.dir\build.make CMakeFiles/2021_test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 2021_test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=37 "Built target 2021_test"
 .PHONY : CMakeFiles/2021_test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2021_test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2021_test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/2021_test.dir/rule
@@ -3648,12 +3650,12 @@ CMakeFiles/1601-add.dir/clean:
 CMakeFiles/1480-divide.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1480-divide.dir\build.make CMakeFiles/1480-divide.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1480-divide.dir\build.make CMakeFiles/1480-divide.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=24 "Built target 1480-divide"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 1480-divide"
 .PHONY : CMakeFiles/1480-divide.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1480-divide.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1480-divide.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/1480-divide.dir/rule
@@ -3778,12 +3780,12 @@ CMakeFiles/1111-restore-roads.dir/clean:
 CMakeFiles/4776-dijkstra.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4776-dijkstra.dir\build.make CMakeFiles/4776-dijkstra.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4776-dijkstra.dir\build.make CMakeFiles/4776-dijkstra.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num= "Built target 4776-dijkstra"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=60 "Built target 4776-dijkstra"
 .PHONY : CMakeFiles/4776-dijkstra.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/4776-dijkstra.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/4776-dijkstra.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
 .PHONY : CMakeFiles/4776-dijkstra.dir/rule
@@ -3822,6 +3824,32 @@ CMakeFiles/3366-kruskal.dir/rule: cmake_check_build_system
 CMakeFiles/3366-kruskal.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3366-kruskal.dir\build.make CMakeFiles/3366-kruskal.dir/clean
 .PHONY : CMakeFiles/3366-kruskal.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1722c_word_game.dir
+
+# All Build rule for target.
+CMakeFiles/1722c_word_game.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\cpp-luogu\build\CMakeFiles --progress-num=27 "Built target 1722c_word_game"
+.PHONY : CMakeFiles/1722c_word_game.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1722c_word_game.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1722c_word_game.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\cpp-luogu\build\CMakeFiles 0
+.PHONY : CMakeFiles/1722c_word_game.dir/rule
+
+# Convenience name for target.
+1722c_word_game: CMakeFiles/1722c_word_game.dir/rule
+.PHONY : 1722c_word_game
+
+# clean rule for target.
+CMakeFiles/1722c_word_game.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/clean
+.PHONY : CMakeFiles/1722c_word_game.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

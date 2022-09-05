@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1601-add.exe.manifest"
   "1601-add.pdb"
   "CMakeFiles/1601-add.dir/high-precision/1601-add.cpp.obj"
+  "CMakeFiles/1601-add.dir/high-precision/1601-add.cpp.obj.d"
   "lib1601-add.dll.a"
 )
 

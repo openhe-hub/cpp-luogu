@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "4391-transfer.exe.manifest"
   "4391-transfer.pdb"
   "CMakeFiles/4391-transfer.dir/string/4391-transfer.cpp.obj"
+  "CMakeFiles/4391-transfer.dir/string/4391-transfer.cpp.obj.d"
   "lib4391-transfer.dll.a"
 )
 

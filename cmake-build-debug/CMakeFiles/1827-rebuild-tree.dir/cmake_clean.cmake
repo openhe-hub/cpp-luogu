@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1827-rebuild-tree.exe.manifest"
   "1827-rebuild-tree.pdb"
   "CMakeFiles/1827-rebuild-tree.dir/tree/1827-rebuild-tree.cpp.obj"
+  "CMakeFiles/1827-rebuild-tree.dir/tree/1827-rebuild-tree.cpp.obj.d"
   "lib1827-rebuild-tree.dll.a"
 )
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1061-jam.exe.manifest"
   "1061-jam.pdb"
   "CMakeFiles/1061-jam.dir/simulation/1061-jam.cpp.obj"
+  "CMakeFiles/1061-jam.dir/simulation/1061-jam.cpp.obj.d"
   "lib1061-jam.dll.a"
 )
 

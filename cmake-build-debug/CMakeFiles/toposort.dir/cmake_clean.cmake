@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/toposort.dir/graph/template/toposort.cpp.obj"
+  "CMakeFiles/toposort.dir/graph/template/toposort.cpp.obj.d"
   "libtoposort.dll.a"
   "toposort.exe"
   "toposort.exe.manifest"

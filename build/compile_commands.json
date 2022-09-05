@@ -673,5 +673,10 @@
   "directory": "D:/program/cpp/cpp-luogu/build",
   "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3366-kruskal.dir\\graph\\3366-kruskal.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\3366-kruskal.cpp",
   "file": "D:/program/cpp/cpp-luogu/graph/3366-kruskal.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1722c_word_game.dir\\simulation\\1722c_word_game.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1722c_word_game.cpp",
+  "file": "D:/program/cpp/cpp-luogu/simulation/1722c_word_game.cpp"
 }
 ]

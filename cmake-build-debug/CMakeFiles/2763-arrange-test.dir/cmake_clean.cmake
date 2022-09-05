@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2763-arrange-test.exe.manifest"
   "2763-arrange-test.pdb"
   "CMakeFiles/2763-arrange-test.dir/graph/net-flow/2763-arrange-test.cpp.obj"
+  "CMakeFiles/2763-arrange-test.dir/graph/net-flow/2763-arrange-test.cpp.obj.d"
   "lib2763-arrange-test.dll.a"
 )
 

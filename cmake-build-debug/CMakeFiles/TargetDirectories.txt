@@ -1,136 +1,143 @@
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1038-neural-net.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/fast-power.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/5318-search.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/luogu.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4913-tree-height.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3916-traverse.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2104-bin.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1030-rebuild-tree.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1827-rebuild-tree.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3366-mst.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/high_precision.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1364-min-distance.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1044-stack.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3370-string-hash.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1102-minus-problem.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1186.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1342-invitation.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1955-analyze-program.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/build-road.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4824-censor.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1466-subset-num.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1056-seats.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2078-friends.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2256-race-judgement.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1991-communication-net.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/loj-145-dfn2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1194-buy-gift.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1194-buy-gift-prim.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4779-dijkstra.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1048-gather-herb.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1629-post-path.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/depend-bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/01bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/01bag2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/template-1.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/complete-bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2196-mine.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/longest-common-sequence.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/multi-bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/ac-demo2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/mixed-bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2918-buy-hay.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1328-rock.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1601-add.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2121-carpet.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1754-ticket.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/edit-distance.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1020-missile-intercept.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1352-ball.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/Euler-screen.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/kmp-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/noi.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2014-choose-class.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1807-longest-path.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1077-flower.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/bellman-ford.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1833-sakura.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4017-food-chain.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/kruskal.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2615-magic.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/mex.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/template-2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/toposort.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/discretization.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/test_debug.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/discretization2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1002-horse.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1091-chorus.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2722-score.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4408-search-boy.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2661-friend.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1351-value.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/trie-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4391-transfer.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3879-reading.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/ac-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/ac-demo3.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3966-count.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/high-precision2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1037-generation.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1045-mason.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/fast-matrix-power.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/bit-demo1.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/bit-demo2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1168-mid.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2345-cow-market.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1880-combination.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1908-reversed-pair.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1774-nearest-god.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/5057-binary-operation.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/group-bag.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/5322-play-war.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/EK-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2740-drainage.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/dinic-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2756-pilot-match.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3254-table-arrange.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2763-arrange-test.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/tree-diameter.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1064-tree-budget.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1621-set.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/floyd-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1841-important-cities.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/spfa-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/dijkstra-demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3385-neg-ring.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1513-hate.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2384-smallest-product.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3831-return-home.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2212-water-field.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1972-necklace.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/test_input.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/segment_tree_demo1.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/discretion_demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/segment_tree_demo2.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2023-sequence.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/weight_segment_tree_demo.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/loj-144-dfn1.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3384-tree-chain-template.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/Erichsen-screen.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/2021_test.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/test.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1061-jam.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1199-three-countries.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1080-king-game.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/high-precision-template.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3958-cheese.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1480-divide.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1011-station.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1012-numbers.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1111-restore-roads.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/4776-dijkstra.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/3366-kruskal.dir
-D:/cpp project/luogu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/luogu.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4913-tree-height.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1827-rebuild-tree.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1030-rebuild-tree.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1364-min-distance.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3370-string-hash.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1102-minus-problem.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1955-analyze-program.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2078-friends.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2256-race-judgement.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3366-mst.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1991-communication-net.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1194-buy-gift.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1194-buy-gift-prim.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4779-dijkstra.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1629-post-path.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1342-invitation.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/01bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/01bag2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/complete-bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/multi-bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/mixed-bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1048-gather-herb.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2918-buy-hay.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/edit-distance.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/longest-common-sequence.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1020-missile-intercept.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1352-ball.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2014-choose-class.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/5318-search.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3916-traverse.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1807-longest-path.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/bellman-ford.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4017-food-chain.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/kruskal.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/noi.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/mex.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2121-carpet.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/template-1.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/template-2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1038-neural-net.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/toposort.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/discretization.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/discretization2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2104-bin.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1056-seats.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1002-horse.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2196-mine.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1077-flower.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1091-chorus.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2722-score.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1833-sakura.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1186.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1044-stack.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1754-ticket.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2615-magic.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2661-friend.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1328-rock.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1351-value.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/kmp-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4824-censor.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4391-transfer.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/trie-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3879-reading.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/ac-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/ac-demo2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/ac-demo3.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3966-count.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/high_precision.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/high-precision2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1037-generation.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/fast-power.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1045-mason.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/fast-matrix-power.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/bit-demo1.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/bit-demo2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1168-mid.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2345-cow-market.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1880-combination.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1908-reversed-pair.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1774-nearest-god.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/5057-binary-operation.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1466-subset-num.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/group-bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/5322-play-war.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/EK-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2740-drainage.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/dinic-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2756-pilot-match.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3254-table-arrange.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2763-arrange-test.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/tree-diameter.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4408-search-boy.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/depend-bag.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1064-tree-budget.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1621-set.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/floyd-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1841-important-cities.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/spfa-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/dijkstra-demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3385-neg-ring.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2384-smallest-product.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3831-return-home.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2212-water-field.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/build-road.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1972-necklace.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/test_debug.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/test_input.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/segment_tree_demo1.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/segment_tree_demo2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2023-sequence.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1513-hate.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/weight_segment_tree_demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/discretion_demo.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/loj-144-dfn1.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/loj-145-dfn2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3384-tree-chain-template.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/Erichsen-screen.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/Euler-screen.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/2021_test.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/test.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1061-jam.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1199-three-countries.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1080-king-game.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/high-precision-template.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1601-add.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1480-divide.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1011-station.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1012-numbers.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3958-cheese.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1111-restore-roads.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/4776-dijkstra.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/3366-kruskal.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1722c_word_game.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1721b-deadly-laser.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1722d-line.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1715b-beautiful-array.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1669g-fall-down.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1679b-stone-age-problem.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1679b-stone-age-problem-2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

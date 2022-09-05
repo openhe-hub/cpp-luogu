@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "3958-cheese.exe.manifest"
   "3958-cheese.pdb"
   "CMakeFiles/3958-cheese.dir/graph/3958-cheese.cpp.obj"
+  "CMakeFiles/3958-cheese.dir/graph/3958-cheese.cpp.obj.d"
   "lib3958-cheese.dll.a"
 )
 

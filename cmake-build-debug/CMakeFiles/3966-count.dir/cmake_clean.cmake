@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "3966-count.exe.manifest"
   "3966-count.pdb"
   "CMakeFiles/3966-count.dir/string/3966-count.cpp.obj"
+  "CMakeFiles/3966-count.dir/string/3966-count.cpp.obj.d"
   "lib3966-count.dll.a"
 )
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/discretion_demo.dir/discretion/discretion_demo.cpp.obj"
+  "CMakeFiles/discretion_demo.dir/discretion/discretion_demo.cpp.obj.d"
   "discretion_demo.exe"
   "discretion_demo.exe.manifest"
   "discretion_demo.pdb"

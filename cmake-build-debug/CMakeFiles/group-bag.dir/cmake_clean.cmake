@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.obj"
+  "CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.obj.d"
   "group-bag.exe"
   "group-bag.exe.manifest"
   "group-bag.pdb"

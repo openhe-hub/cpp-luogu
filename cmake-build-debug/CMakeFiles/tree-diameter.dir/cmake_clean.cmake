@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tree-diameter.dir/tree/tree-diameter.cpp.obj"
+  "CMakeFiles/tree-diameter.dir/tree/tree-diameter.cpp.obj.d"
   "libtree-diameter.dll.a"
   "tree-diameter.exe"
   "tree-diameter.exe.manifest"

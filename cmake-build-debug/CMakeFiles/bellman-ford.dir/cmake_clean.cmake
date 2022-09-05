@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.obj"
+  "CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.obj.d"
   "bellman-ford.exe"
   "bellman-ford.exe.manifest"
   "bellman-ford.pdb"

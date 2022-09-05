@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.obj"
+  "CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.obj.d"
   "floyd-demo.exe"
   "floyd-demo.exe.manifest"
   "floyd-demo.pdb"

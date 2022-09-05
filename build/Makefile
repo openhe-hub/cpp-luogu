@@ -1857,6 +1857,19 @@ high-precision-template/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3366-kruskal.dir\build.make CMakeFiles/3366-kruskal.dir/build
 .PHONY : 3366-kruskal/fast
 
+#=============================================================================
+# Target rules for targets named 1722c_word_game
+
+# Build rule for target.
+1722c_word_game: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1722c_word_game
+.PHONY : 1722c_word_game
+
+# fast build rule for target.
+1722c_word_game/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/build
+.PHONY : 1722c_word_game/fast
+
 _binary-index-tree/1774-nearest-god.obj: _binary-index-tree/1774-nearest-god.cpp.obj
 .PHONY : _binary-index-tree/1774-nearest-god.obj
 
@@ -4452,6 +4465,30 @@ simulation/1328-rock.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1328-rock.dir\build.make CMakeFiles/1328-rock.dir/simulation/1328-rock.cpp.s
 .PHONY : simulation/1328-rock.cpp.s
 
+simulation/1722c_word_game.obj: simulation/1722c_word_game.cpp.obj
+.PHONY : simulation/1722c_word_game.obj
+
+# target to build an object file
+simulation/1722c_word_game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/simulation/1722c_word_game.cpp.obj
+.PHONY : simulation/1722c_word_game.cpp.obj
+
+simulation/1722c_word_game.i: simulation/1722c_word_game.cpp.i
+.PHONY : simulation/1722c_word_game.i
+
+# target to preprocess a source file
+simulation/1722c_word_game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/simulation/1722c_word_game.cpp.i
+.PHONY : simulation/1722c_word_game.cpp.i
+
+simulation/1722c_word_game.s: simulation/1722c_word_game.cpp.s
+.PHONY : simulation/1722c_word_game.s
+
+# target to generate assembly for a file
+simulation/1722c_word_game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/simulation/1722c_word_game.cpp.s
+.PHONY : simulation/1722c_word_game.cpp.s
+
 simulation/2615-magic.obj: simulation/2615-magic.cpp.obj
 .PHONY : simulation/2615-magic.obj
 
@@ -5120,6 +5157,7 @@ help:
 	@echo ... 1601-add
 	@echo ... 1621-set
 	@echo ... 1629-post-path
+	@echo ... 1722c_word_game
 	@echo ... 1754-ticket
 	@echo ... 1774-nearest-god
 	@echo ... 1807-longest-path
@@ -5542,6 +5580,9 @@ help:
 	@echo ... simulation/1328-rock.obj
 	@echo ... simulation/1328-rock.i
 	@echo ... simulation/1328-rock.s
+	@echo ... simulation/1722c_word_game.obj
+	@echo ... simulation/1722c_word_game.i
+	@echo ... simulation/1722c_word_game.s
 	@echo ... simulation/2615-magic.obj
 	@echo ... simulation/2615-magic.i
 	@echo ... simulation/2615-magic.s

@@ -4,20 +4,11 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/cpp project/luogu/segment-tree/1531-hate.cpp" "D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/program/cpp/cpp-luogu/segment-tree/1531-hate.cpp" "CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.obj" "gcc" "CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.obj.d"
   )
 
 # Targets to which this target links.

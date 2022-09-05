@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1080-king-game.exe.manifest"
   "1080-king-game.pdb"
   "CMakeFiles/1080-king-game.dir/greedy/1080-king-game.cpp.obj"
+  "CMakeFiles/1080-king-game.dir/greedy/1080-king-game.cpp.obj.d"
   "lib1080-king-game.dll.a"
 )
 

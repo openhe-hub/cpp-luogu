@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2740-drainage.exe.manifest"
   "2740-drainage.pdb"
   "CMakeFiles/2740-drainage.dir/graph/net-flow/2740-drainage.cpp.obj"
+  "CMakeFiles/2740-drainage.dir/graph/net-flow/2740-drainage.cpp.obj.d"
   "lib2740-drainage.dll.a"
 )
 

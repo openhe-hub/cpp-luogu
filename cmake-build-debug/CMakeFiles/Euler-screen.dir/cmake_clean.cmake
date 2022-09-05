@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.obj"
+  "CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.obj.d"
   "Euler-screen.exe"
   "Euler-screen.exe.manifest"
   "Euler-screen.pdb"

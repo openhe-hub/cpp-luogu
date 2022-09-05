@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1351-value.exe.manifest"
   "1351-value.pdb"
   "CMakeFiles/1351-value.dir/graph/1351-value.cpp.obj"
+  "CMakeFiles/1351-value.dir/graph/1351-value.cpp.obj.d"
   "lib1351-value.dll.a"
 )
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.obj"
+  "CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.obj.d"
   "high-precision-template.exe"
   "high-precision-template.exe.manifest"
   "high-precision-template.pdb"

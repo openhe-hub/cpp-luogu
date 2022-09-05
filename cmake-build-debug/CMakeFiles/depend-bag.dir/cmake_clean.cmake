@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.obj"
+  "CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.obj.d"
   "depend-bag.exe"
   "depend-bag.exe.manifest"
   "depend-bag.pdb"

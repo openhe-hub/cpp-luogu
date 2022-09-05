@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.obj"
+  "CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.obj.d"
   "dinic-demo.exe"
   "dinic-demo.exe.manifest"
   "dinic-demo.pdb"

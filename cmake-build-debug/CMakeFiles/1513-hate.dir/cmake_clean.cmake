@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1513-hate.exe.manifest"
   "1513-hate.pdb"
   "CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.obj"
+  "CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.obj.d"
   "lib1513-hate.dll.a"
 )
 

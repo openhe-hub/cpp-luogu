@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/loj-144-dfn1.dir/tree/dfn/loj-144-dfn1.cpp.obj"
+  "CMakeFiles/loj-144-dfn1.dir/tree/dfn/loj-144-dfn1.cpp.obj.d"
   "libloj-144-dfn1.dll.a"
   "loj-144-dfn1.exe"
   "loj-144-dfn1.exe.manifest"

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1991-communication-net.exe.manifest"
   "1991-communication-net.pdb"
   "CMakeFiles/1991-communication-net.dir/graph/1991-communication-net.cpp.obj"
+  "CMakeFiles/1991-communication-net.dir/graph/1991-communication-net.cpp.obj.d"
   "lib1991-communication-net.dll.a"
 )
 

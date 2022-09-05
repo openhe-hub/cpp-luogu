@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ac-demo2.dir/string/ac-demo2.cpp.obj"
+  "CMakeFiles/ac-demo2.dir/string/ac-demo2.cpp.obj.d"
   "ac-demo2.exe"
   "ac-demo2.exe.manifest"
   "ac-demo2.pdb"

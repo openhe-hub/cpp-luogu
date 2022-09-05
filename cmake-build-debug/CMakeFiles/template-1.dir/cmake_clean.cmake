@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/template-1.dir/segment-tree/template-1.cpp.obj"
+  "CMakeFiles/template-1.dir/segment-tree/template-1.cpp.obj.d"
   "libtemplate-1.dll.a"
   "template-1.exe"
   "template-1.exe.manifest"

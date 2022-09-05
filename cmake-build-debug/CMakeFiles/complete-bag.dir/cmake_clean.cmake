@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.obj"
+  "CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.obj.d"
   "complete-bag.exe"
   "complete-bag.exe.manifest"
   "complete-bag.pdb"

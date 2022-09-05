@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/dijkstra-demo.dir/graph/template/dijkstra-demo.cpp.obj"
+  "CMakeFiles/dijkstra-demo.dir/graph/template/dijkstra-demo.cpp.obj.d"
   "dijkstra-demo.exe"
   "dijkstra-demo.exe.manifest"
   "dijkstra-demo.pdb"

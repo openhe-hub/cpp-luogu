@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1194-buy-gift.exe.manifest"
   "1194-buy-gift.pdb"
   "CMakeFiles/1194-buy-gift.dir/graph/1194-buy-gift.cpp.obj"
+  "CMakeFiles/1194-buy-gift.dir/graph/1194-buy-gift.cpp.obj.d"
   "lib1194-buy-gift.dll.a"
 )
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.obj"
+  "CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.obj.d"
   "Erichsen-screen.exe"
   "Erichsen-screen.exe.manifest"
   "Erichsen-screen.pdb"

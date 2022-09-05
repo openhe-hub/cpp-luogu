@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/discretization.dir/hash/discretization.cpp.obj"
+  "CMakeFiles/discretization.dir/hash/discretization.cpp.obj.d"
   "discretization.exe"
   "discretization.exe.manifest"
   "discretization.pdb"

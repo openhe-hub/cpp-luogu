@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "3370-string-hash.exe.manifest"
   "3370-string-hash.pdb"
   "CMakeFiles/3370-string-hash.dir/hash/3370-string-hash.cpp.obj"
+  "CMakeFiles/3370-string-hash.dir/hash/3370-string-hash.cpp.obj.d"
   "lib3370-string-hash.dll.a"
 )
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.obj"
+  "CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.obj.d"
   "high-precision2.exe"
   "high-precision2.exe.manifest"
   "high-precision2.pdb"

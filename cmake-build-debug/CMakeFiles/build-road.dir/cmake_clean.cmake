@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/build-road.dir/graph/build-road.cpp.obj"
+  "CMakeFiles/build-road.dir/graph/build-road.cpp.obj.d"
   "build-road.exe"
   "build-road.exe.manifest"
   "build-road.pdb"

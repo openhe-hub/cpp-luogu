@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2014-choose-class.exe.manifest"
   "2014-choose-class.pdb"
   "CMakeFiles/2014-choose-class.dir/dp/tree/2014-choose-class.cpp.obj"
+  "CMakeFiles/2014-choose-class.dir/dp/tree/2014-choose-class.cpp.obj.d"
   "lib2014-choose-class.dll.a"
 )
 

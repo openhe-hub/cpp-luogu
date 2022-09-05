@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1621-set.exe.manifest"
   "1621-set.pdb"
   "CMakeFiles/1621-set.dir/graph/1621-set.cpp.obj"
+  "CMakeFiles/1621-set.dir/graph/1621-set.cpp.obj.d"
   "lib1621-set.dll.a"
 )
 

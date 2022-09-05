@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "3366-mst.exe.manifest"
   "3366-mst.pdb"
   "CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.obj"
+  "CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.obj.d"
   "lib3366-mst.dll.a"
 )
 

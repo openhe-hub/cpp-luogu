@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1754-ticket.exe.manifest"
   "1754-ticket.pdb"
   "CMakeFiles/1754-ticket.dir/dp/1754-ticket.cpp.obj"
+  "CMakeFiles/1754-ticket.dir/dp/1754-ticket.cpp.obj.d"
   "lib1754-ticket.dll.a"
 )
 

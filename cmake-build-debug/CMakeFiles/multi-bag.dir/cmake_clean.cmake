@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/multi-bag.dir/dp/bag/template/multi-bag.cpp.obj"
+  "CMakeFiles/multi-bag.dir/dp/bag/template/multi-bag.cpp.obj.d"
   "libmulti-bag.dll.a"
   "multi-bag.exe"
   "multi-bag.exe.manifest"

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/segment_tree_demo1.dir/segment-tree/segment_tree_demo1.cpp.obj"
+  "CMakeFiles/segment_tree_demo1.dir/segment-tree/segment_tree_demo1.cpp.obj.d"
   "libsegment_tree_demo1.dll.a"
   "segment_tree_demo1.exe"
   "segment_tree_demo1.exe.manifest"

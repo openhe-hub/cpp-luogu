@@ -132,5 +132,6 @@ D:/program/cpp/cpp-luogu/build/CMakeFiles/3958-cheese.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/1111-restore-roads.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/4776-dijkstra.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/3366-kruskal.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1722c_word_game.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/edit_cache.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/rebuild_cache.dir

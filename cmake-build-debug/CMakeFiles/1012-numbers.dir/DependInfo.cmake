@@ -4,20 +4,11 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/cpp project/luogu/simulation/1012-numbers.cpp" "D:/cpp project/luogu/cmake-build-debug/CMakeFiles/1012-numbers.dir/simulation/1012-numbers.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/program/cpp/cpp-luogu/simulation/1012-numbers.cpp" "CMakeFiles/1012-numbers.dir/simulation/1012-numbers.cpp.obj" "gcc" "CMakeFiles/1012-numbers.dir/simulation/1012-numbers.cpp.obj.d"
   )
 
 # Targets to which this target links.

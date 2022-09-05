@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.obj"
+  "CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.obj.d"
   "edit-distance.exe"
   "edit-distance.exe.manifest"
   "edit-distance.pdb"

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1342-invitation.exe.manifest"
   "1342-invitation.pdb"
   "CMakeFiles/1342-invitation.dir/graph/1342-invitation.cpp.obj"
+  "CMakeFiles/1342-invitation.dir/graph/1342-invitation.cpp.obj.d"
   "lib1342-invitation.dll.a"
 )
 

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1044-stack.exe.manifest"
   "1044-stack.pdb"
   "CMakeFiles/1044-stack.dir/dp/1044-stack.cpp.obj"
+  "CMakeFiles/1044-stack.dir/dp/1044-stack.cpp.obj.d"
   "lib1044-stack.dll.a"
 )
 

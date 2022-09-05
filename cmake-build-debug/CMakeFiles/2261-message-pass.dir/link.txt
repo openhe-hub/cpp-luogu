@@ -1,3 +1,0 @@
-D:\software\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\2261-message-pass.dir/objects.a
-D:\MinGw\bin\ar.exe cr CMakeFiles\2261-message-pass.dir/objects.a @CMakeFiles\2261-message-pass.dir\objects1.rsp
-D:\MinGw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\2261-message-pass.dir/objects.a -Wl,--no-whole-archive  -o 2261-message-pass.exe -Wl,--out-implib,lib2261-message-pass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2261-message-pass.dir\linklibs.rsp

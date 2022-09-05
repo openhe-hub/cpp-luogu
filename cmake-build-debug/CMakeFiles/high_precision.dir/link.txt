@@ -1,3 +1,3 @@
-D:\software\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\high_precision.dir/objects.a
-D:\MinGw\bin\ar.exe cr CMakeFiles\high_precision.dir/objects.a @CMakeFiles\high_precision.dir\objects1.rsp
-D:\MinGw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\high_precision.dir/objects.a -Wl,--no-whole-archive -o high_precision.exe -Wl,--out-implib,libhigh_precision.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\high_precision.dir\linklibs.rsp
+D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\high_precision.dir/objects.a
+D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\ar.exe qc CMakeFiles\high_precision.dir/objects.a @CMakeFiles\high_precision.dir\objects1.rsp
+D:\software\jetbrains-app\apps\CLion\ch-0\222.3739.54\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\high_precision.dir/objects.a -Wl,--no-whole-archive -o high_precision.exe -Wl,--out-implib,libhigh_precision.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\high_precision.dir\linklibs.rsp

@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "4913-tree-height.exe.manifest"
   "4913-tree-height.pdb"
   "CMakeFiles/4913-tree-height.dir/tree/4913-tree-height.cpp.obj"
+  "CMakeFiles/4913-tree-height.dir/tree/4913-tree-height.cpp.obj.d"
   "lib4913-tree-height.dll.a"
 )
 

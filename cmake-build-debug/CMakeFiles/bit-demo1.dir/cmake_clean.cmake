@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/bit-demo1.dir/_binary-index-tree/bit-demo1.cpp.obj"
+  "CMakeFiles/bit-demo1.dir/_binary-index-tree/bit-demo1.cpp.obj.d"
   "bit-demo1.exe"
   "bit-demo1.exe.manifest"
   "bit-demo1.pdb"

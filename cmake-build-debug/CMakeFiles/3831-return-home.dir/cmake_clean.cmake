@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "3831-return-home.exe.manifest"
   "3831-return-home.pdb"
   "CMakeFiles/3831-return-home.dir/graph/3831-return-home.cpp.obj"
+  "CMakeFiles/3831-return-home.dir/graph/3831-return-home.cpp.obj.d"
   "lib3831-return-home.dll.a"
 )
 

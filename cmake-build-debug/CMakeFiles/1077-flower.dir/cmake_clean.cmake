@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1077-flower.exe.manifest"
   "1077-flower.pdb"
   "CMakeFiles/1077-flower.dir/dp/1077-flower.cpp.obj"
+  "CMakeFiles/1077-flower.dir/dp/1077-flower.cpp.obj.d"
   "lib1077-flower.dll.a"
 )
 

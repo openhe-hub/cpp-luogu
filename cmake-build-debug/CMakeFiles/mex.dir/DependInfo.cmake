@@ -4,20 +4,11 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/cpp project/luogu/contest/2020-oct/mex.cpp" "D:/cpp project/luogu/cmake-build-debug/CMakeFiles/mex.dir/contest/2020-oct/mex.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/program/cpp/cpp-luogu/contest/2020-oct/mex.cpp" "CMakeFiles/mex.dir/contest/2020-oct/mex.cpp.obj" "gcc" "CMakeFiles/mex.dir/contest/2020-oct/mex.cpp.obj.d"
   )
 
 # Targets to which this target links.

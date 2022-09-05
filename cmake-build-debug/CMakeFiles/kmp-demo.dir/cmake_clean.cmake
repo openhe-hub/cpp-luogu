@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/kmp-demo.dir/string/kmp-demo.cpp.obj"
+  "CMakeFiles/kmp-demo.dir/string/kmp-demo.cpp.obj.d"
   "kmp-demo.exe"
   "kmp-demo.exe.manifest"
   "kmp-demo.pdb"

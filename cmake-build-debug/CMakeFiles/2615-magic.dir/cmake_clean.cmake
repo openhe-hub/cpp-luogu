@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2615-magic.exe.manifest"
   "2615-magic.pdb"
   "CMakeFiles/2615-magic.dir/simulation/2615-magic.cpp.obj"
+  "CMakeFiles/2615-magic.dir/simulation/2615-magic.cpp.obj.d"
   "lib2615-magic.dll.a"
 )
 

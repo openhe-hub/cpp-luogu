@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/mixed-bag.dir/dp/bag/template/mixed-bag.cpp.obj"
+  "CMakeFiles/mixed-bag.dir/dp/bag/template/mixed-bag.cpp.obj.d"
   "libmixed-bag.dll.a"
   "mixed-bag.exe"
   "mixed-bag.exe.manifest"

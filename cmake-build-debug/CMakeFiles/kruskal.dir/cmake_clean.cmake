@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.obj"
+  "CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.obj.d"
   "kruskal.exe"
   "kruskal.exe.manifest"
   "kruskal.pdb"

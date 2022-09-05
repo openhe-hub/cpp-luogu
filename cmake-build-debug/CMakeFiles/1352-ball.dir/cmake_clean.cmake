@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "1352-ball.exe.manifest"
   "1352-ball.pdb"
   "CMakeFiles/1352-ball.dir/dp/tree/1352-ball.cpp.obj"
+  "CMakeFiles/1352-ball.dir/dp/tree/1352-ball.cpp.obj.d"
   "lib1352-ball.dll.a"
 )
 

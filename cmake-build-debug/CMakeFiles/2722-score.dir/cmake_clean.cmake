@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "2722-score.exe.manifest"
   "2722-score.pdb"
   "CMakeFiles/2722-score.dir/dp/2722-score.cpp.obj"
+  "CMakeFiles/2722-score.dir/dp/2722-score.cpp.obj.d"
   "lib2722-score.dll.a"
 )
 

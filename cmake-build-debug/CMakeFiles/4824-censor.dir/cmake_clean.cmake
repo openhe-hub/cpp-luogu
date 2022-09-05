@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "4824-censor.exe.manifest"
   "4824-censor.pdb"
   "CMakeFiles/4824-censor.dir/string/4824-censor.cpp.obj"
+  "CMakeFiles/4824-censor.dir/string/4824-censor.cpp.obj.d"
   "lib4824-censor.dll.a"
 )
 
