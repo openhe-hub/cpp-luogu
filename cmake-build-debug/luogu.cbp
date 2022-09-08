@@ -6221,6 +6221,226 @@
 					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="a-array">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/a-array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a-array"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a-array/fast">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/a-array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a-array/fast"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-sequence">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/b-sequence.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-sequence"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-sequence/fast">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/b-sequence.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-sequence/fast"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1713b-optimal-reduction">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1713b-optimal-reduction.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1713b-optimal-reduction"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1713b-optimal-reduction/fast">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1713b-optimal-reduction.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1713b-optimal-reduction/fast"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1702d-expensive-string">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1702d-expensive-string.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1702d-expensive-string"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1702d-expensive-string/fast">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1702d-expensive-string.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1702d-expensive-string/fast"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1704c-virus">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1704c-virus.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1704c-virus"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1704c-virus/fast">
+				<Option output="D:/program/cpp/cpp-luogu/cmake-build-debug/1704c-virus.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 1704c-virus/fast"/>
+					<CompileFile command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/jetbrains-app/apps/CLion/ch-0/222.3739.54/bin/mingw/bin/mingw32-make.exe -f &quot;D:/program/cpp/cpp-luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/program/cpp/cpp-luogu/cmake-build-debug"/>
 				<Option type="4"/>
@@ -6268,6 +6488,12 @@
 		</Unit>
 		<Unit filename="D:/program/cpp/cpp-luogu/contest/2020-oct/noi.cpp">
 			<Option target="noi"/>
+		</Unit>
+		<Unit filename="D:/program/cpp/cpp-luogu/contest/cf-819-div2/a-array.cpp">
+			<Option target="a-array"/>
+		</Unit>
+		<Unit filename="D:/program/cpp/cpp-luogu/contest/cf-819-div2/b-sequence.cpp">
+			<Option target="b-sequence"/>
 		</Unit>
 		<Unit filename="D:/program/cpp/cpp-luogu/dfs/1669g-fall-down.cpp">
 			<Option target="1669g-fall-down"/>
@@ -6476,6 +6702,12 @@
 		<Unit filename="D:/program/cpp/cpp-luogu/greedy/1199-three-countries.cpp">
 			<Option target="1199-three-countries"/>
 		</Unit>
+		<Unit filename="D:/program/cpp/cpp-luogu/greedy/1702d-expensive-string.cpp">
+			<Option target="1702d-expensive-string"/>
+		</Unit>
+		<Unit filename="D:/program/cpp/cpp-luogu/greedy/1704c-virus.cpp">
+			<Option target="1704c-virus"/>
+		</Unit>
 		<Unit filename="D:/program/cpp/cpp-luogu/greedy/1721b-deadly-laser.cpp">
 			<Option target="1721b-deadly-laser"/>
 		</Unit>
@@ -6581,6 +6813,9 @@
 		</Unit>
 		<Unit filename="D:/program/cpp/cpp-luogu/simulation/1328-rock.cpp">
 			<Option target="1328-rock"/>
+		</Unit>
+		<Unit filename="D:/program/cpp/cpp-luogu/simulation/1713b-optimal-reduction.cpp">
+			<Option target="1713b-optimal-reduction"/>
 		</Unit>
 		<Unit filename="D:/program/cpp/cpp-luogu/simulation/1722c_word_game.cpp">
 			<Option target="1722c_word_game"/>

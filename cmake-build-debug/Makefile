@@ -1948,6 +1948,71 @@ high-precision-template/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem-2.dir\build.make CMakeFiles/1679b-stone-age-problem-2.dir/build
 .PHONY : 1679b-stone-age-problem-2/fast
 
+#=============================================================================
+# Target rules for targets named a-array
+
+# Build rule for target.
+a-array: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 a-array
+.PHONY : a-array
+
+# fast build rule for target.
+a-array/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/build
+.PHONY : a-array/fast
+
+#=============================================================================
+# Target rules for targets named b-sequence
+
+# Build rule for target.
+b-sequence: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 b-sequence
+.PHONY : b-sequence
+
+# fast build rule for target.
+b-sequence/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/build
+.PHONY : b-sequence/fast
+
+#=============================================================================
+# Target rules for targets named 1713b-optimal-reduction
+
+# Build rule for target.
+1713b-optimal-reduction: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1713b-optimal-reduction
+.PHONY : 1713b-optimal-reduction
+
+# fast build rule for target.
+1713b-optimal-reduction/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1713b-optimal-reduction.dir\build.make CMakeFiles/1713b-optimal-reduction.dir/build
+.PHONY : 1713b-optimal-reduction/fast
+
+#=============================================================================
+# Target rules for targets named 1702d-expensive-string
+
+# Build rule for target.
+1702d-expensive-string: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1702d-expensive-string
+.PHONY : 1702d-expensive-string
+
+# fast build rule for target.
+1702d-expensive-string/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702d-expensive-string.dir\build.make CMakeFiles/1702d-expensive-string.dir/build
+.PHONY : 1702d-expensive-string/fast
+
+#=============================================================================
+# Target rules for targets named 1704c-virus
+
+# Build rule for target.
+1704c-virus: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1704c-virus
+.PHONY : 1704c-virus
+
+# fast build rule for target.
+1704c-virus/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1704c-virus.dir\build.make CMakeFiles/1704c-virus.dir/build
+.PHONY : 1704c-virus/fast
+
 _binary-index-tree/1774-nearest-god.obj: _binary-index-tree/1774-nearest-god.cpp.obj
 .PHONY : _binary-index-tree/1774-nearest-god.obj
 
@@ -2163,6 +2228,54 @@ contest/2020-oct/noi.s: contest/2020-oct/noi.cpp.s
 contest/2020-oct/noi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\noi.dir\build.make CMakeFiles/noi.dir/contest/2020-oct/noi.cpp.s
 .PHONY : contest/2020-oct/noi.cpp.s
+
+contest/cf-819-div2/a-array.obj: contest/cf-819-div2/a-array.cpp.obj
+.PHONY : contest/cf-819-div2/a-array.obj
+
+# target to build an object file
+contest/cf-819-div2/a-array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.obj
+.PHONY : contest/cf-819-div2/a-array.cpp.obj
+
+contest/cf-819-div2/a-array.i: contest/cf-819-div2/a-array.cpp.i
+.PHONY : contest/cf-819-div2/a-array.i
+
+# target to preprocess a source file
+contest/cf-819-div2/a-array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.i
+.PHONY : contest/cf-819-div2/a-array.cpp.i
+
+contest/cf-819-div2/a-array.s: contest/cf-819-div2/a-array.cpp.s
+.PHONY : contest/cf-819-div2/a-array.s
+
+# target to generate assembly for a file
+contest/cf-819-div2/a-array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.s
+.PHONY : contest/cf-819-div2/a-array.cpp.s
+
+contest/cf-819-div2/b-sequence.obj: contest/cf-819-div2/b-sequence.cpp.obj
+.PHONY : contest/cf-819-div2/b-sequence.obj
+
+# target to build an object file
+contest/cf-819-div2/b-sequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.obj
+.PHONY : contest/cf-819-div2/b-sequence.cpp.obj
+
+contest/cf-819-div2/b-sequence.i: contest/cf-819-div2/b-sequence.cpp.i
+.PHONY : contest/cf-819-div2/b-sequence.i
+
+# target to preprocess a source file
+contest/cf-819-div2/b-sequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.i
+.PHONY : contest/cf-819-div2/b-sequence.cpp.i
+
+contest/cf-819-div2/b-sequence.s: contest/cf-819-div2/b-sequence.cpp.s
+.PHONY : contest/cf-819-div2/b-sequence.s
+
+# target to generate assembly for a file
+contest/cf-819-div2/b-sequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.s
+.PHONY : contest/cf-819-div2/b-sequence.cpp.s
 
 dfs/1669g-fall-down.obj: dfs/1669g-fall-down.cpp.obj
 .PHONY : dfs/1669g-fall-down.obj
@@ -3820,6 +3933,54 @@ greedy/1199-three-countries.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1199-three-countries.dir\build.make CMakeFiles/1199-three-countries.dir/greedy/1199-three-countries.cpp.s
 .PHONY : greedy/1199-three-countries.cpp.s
 
+greedy/1702d-expensive-string.obj: greedy/1702d-expensive-string.cpp.obj
+.PHONY : greedy/1702d-expensive-string.obj
+
+# target to build an object file
+greedy/1702d-expensive-string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702d-expensive-string.dir\build.make CMakeFiles/1702d-expensive-string.dir/greedy/1702d-expensive-string.cpp.obj
+.PHONY : greedy/1702d-expensive-string.cpp.obj
+
+greedy/1702d-expensive-string.i: greedy/1702d-expensive-string.cpp.i
+.PHONY : greedy/1702d-expensive-string.i
+
+# target to preprocess a source file
+greedy/1702d-expensive-string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702d-expensive-string.dir\build.make CMakeFiles/1702d-expensive-string.dir/greedy/1702d-expensive-string.cpp.i
+.PHONY : greedy/1702d-expensive-string.cpp.i
+
+greedy/1702d-expensive-string.s: greedy/1702d-expensive-string.cpp.s
+.PHONY : greedy/1702d-expensive-string.s
+
+# target to generate assembly for a file
+greedy/1702d-expensive-string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702d-expensive-string.dir\build.make CMakeFiles/1702d-expensive-string.dir/greedy/1702d-expensive-string.cpp.s
+.PHONY : greedy/1702d-expensive-string.cpp.s
+
+greedy/1704c-virus.obj: greedy/1704c-virus.cpp.obj
+.PHONY : greedy/1704c-virus.obj
+
+# target to build an object file
+greedy/1704c-virus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1704c-virus.dir\build.make CMakeFiles/1704c-virus.dir/greedy/1704c-virus.cpp.obj
+.PHONY : greedy/1704c-virus.cpp.obj
+
+greedy/1704c-virus.i: greedy/1704c-virus.cpp.i
+.PHONY : greedy/1704c-virus.i
+
+# target to preprocess a source file
+greedy/1704c-virus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1704c-virus.dir\build.make CMakeFiles/1704c-virus.dir/greedy/1704c-virus.cpp.i
+.PHONY : greedy/1704c-virus.cpp.i
+
+greedy/1704c-virus.s: greedy/1704c-virus.cpp.s
+.PHONY : greedy/1704c-virus.s
+
+# target to generate assembly for a file
+greedy/1704c-virus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1704c-virus.dir\build.make CMakeFiles/1704c-virus.dir/greedy/1704c-virus.cpp.s
+.PHONY : greedy/1704c-virus.cpp.s
+
 greedy/1721b-deadly-laser.obj: greedy/1721b-deadly-laser.cpp.obj
 .PHONY : greedy/1721b-deadly-laser.obj
 
@@ -4663,6 +4824,30 @@ simulation/1328-rock.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1328-rock.dir\build.make CMakeFiles/1328-rock.dir/simulation/1328-rock.cpp.s
 .PHONY : simulation/1328-rock.cpp.s
 
+simulation/1713b-optimal-reduction.obj: simulation/1713b-optimal-reduction.cpp.obj
+.PHONY : simulation/1713b-optimal-reduction.obj
+
+# target to build an object file
+simulation/1713b-optimal-reduction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1713b-optimal-reduction.dir\build.make CMakeFiles/1713b-optimal-reduction.dir/simulation/1713b-optimal-reduction.cpp.obj
+.PHONY : simulation/1713b-optimal-reduction.cpp.obj
+
+simulation/1713b-optimal-reduction.i: simulation/1713b-optimal-reduction.cpp.i
+.PHONY : simulation/1713b-optimal-reduction.i
+
+# target to preprocess a source file
+simulation/1713b-optimal-reduction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1713b-optimal-reduction.dir\build.make CMakeFiles/1713b-optimal-reduction.dir/simulation/1713b-optimal-reduction.cpp.i
+.PHONY : simulation/1713b-optimal-reduction.cpp.i
+
+simulation/1713b-optimal-reduction.s: simulation/1713b-optimal-reduction.cpp.s
+.PHONY : simulation/1713b-optimal-reduction.s
+
+# target to generate assembly for a file
+simulation/1713b-optimal-reduction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1713b-optimal-reduction.dir\build.make CMakeFiles/1713b-optimal-reduction.dir/simulation/1713b-optimal-reduction.cpp.s
+.PHONY : simulation/1713b-optimal-reduction.cpp.s
+
 simulation/1722c_word_game.obj: simulation/1722c_word_game.cpp.obj
 .PHONY : simulation/1722c_word_game.obj
 
@@ -5382,6 +5567,9 @@ help:
 	@echo ... 1669g-fall-down
 	@echo ... 1679b-stone-age-problem
 	@echo ... 1679b-stone-age-problem-2
+	@echo ... 1702d-expensive-string
+	@echo ... 1704c-virus
+	@echo ... 1713b-optimal-reduction
 	@echo ... 1715b-beautiful-array
 	@echo ... 1721b-deadly-laser
 	@echo ... 1722c_word_game
@@ -5439,9 +5627,11 @@ help:
 	@echo ... EK-demo
 	@echo ... Erichsen-screen
 	@echo ... Euler-screen
+	@echo ... a-array
 	@echo ... ac-demo
 	@echo ... ac-demo2
 	@echo ... ac-demo3
+	@echo ... b-sequence
 	@echo ... bellman-ford
 	@echo ... bit-demo1
 	@echo ... bit-demo2
@@ -5511,6 +5701,12 @@ help:
 	@echo ... contest/2020-oct/noi.obj
 	@echo ... contest/2020-oct/noi.i
 	@echo ... contest/2020-oct/noi.s
+	@echo ... contest/cf-819-div2/a-array.obj
+	@echo ... contest/cf-819-div2/a-array.i
+	@echo ... contest/cf-819-div2/a-array.s
+	@echo ... contest/cf-819-div2/b-sequence.obj
+	@echo ... contest/cf-819-div2/b-sequence.i
+	@echo ... contest/cf-819-div2/b-sequence.s
 	@echo ... dfs/1669g-fall-down.obj
 	@echo ... dfs/1669g-fall-down.i
 	@echo ... dfs/1669g-fall-down.s
@@ -5718,6 +5914,12 @@ help:
 	@echo ... greedy/1199-three-countries.obj
 	@echo ... greedy/1199-three-countries.i
 	@echo ... greedy/1199-three-countries.s
+	@echo ... greedy/1702d-expensive-string.obj
+	@echo ... greedy/1702d-expensive-string.i
+	@echo ... greedy/1702d-expensive-string.s
+	@echo ... greedy/1704c-virus.obj
+	@echo ... greedy/1704c-virus.i
+	@echo ... greedy/1704c-virus.s
 	@echo ... greedy/1721b-deadly-laser.obj
 	@echo ... greedy/1721b-deadly-laser.i
 	@echo ... greedy/1721b-deadly-laser.s
@@ -5823,6 +6025,9 @@ help:
 	@echo ... simulation/1328-rock.obj
 	@echo ... simulation/1328-rock.i
 	@echo ... simulation/1328-rock.s
+	@echo ... simulation/1713b-optimal-reduction.obj
+	@echo ... simulation/1713b-optimal-reduction.i
+	@echo ... simulation/1713b-optimal-reduction.s
 	@echo ... simulation/1722c_word_game.obj
 	@echo ... simulation/1722c_word_game.i
 	@echo ... simulation/1722c_word_game.s

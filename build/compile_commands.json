@@ -678,5 +678,45 @@
   "directory": "D:/program/cpp/cpp-luogu/build",
   "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1722c_word_game.dir\\simulation\\1722c_word_game.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1722c_word_game.cpp",
   "file": "D:/program/cpp/cpp-luogu/simulation/1722c_word_game.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1721b-deadly-laser.dir\\greedy\\1721b-deadly-laser.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\greedy\\1721b-deadly-laser.cpp",
+  "file": "D:/program/cpp/cpp-luogu/greedy/1721b-deadly-laser.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1722d-line.dir\\sort\\1722d-line.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\sort\\1722d-line.cpp",
+  "file": "D:/program/cpp/cpp-luogu/sort/1722d-line.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1715b-beautiful-array.dir\\math\\1715b-beautiful-array.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\math\\1715b-beautiful-array.cpp",
+  "file": "D:/program/cpp/cpp-luogu/math/1715b-beautiful-array.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1669g-fall-down.dir\\dfs\\1669g-fall-down.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dfs\\1669g-fall-down.cpp",
+  "file": "D:/program/cpp/cpp-luogu/dfs/1669g-fall-down.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1679b-stone-age-problem.dir\\segment-tree\\1679b-stone-age-problem.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\1679b-stone-age-problem.cpp",
+  "file": "D:/program/cpp/cpp-luogu/segment-tree/1679b-stone-age-problem.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1679b-stone-age-problem-2.dir\\segment-tree\\1679b-stone-age-problem-2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\1679b-stone-age-problem-2.cpp",
+  "file": "D:/program/cpp/cpp-luogu/segment-tree/1679b-stone-age-problem-2.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\a-array.dir\\contest\\cf-819-div2\\a-array.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\cf-819-div2\\a-array.cpp",
+  "file": "D:/program/cpp/cpp-luogu/contest/cf-819-div2/a-array.cpp"
+},
+{
+  "directory": "D:/program/cpp/cpp-luogu/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\b-sequence.dir\\contest\\cf-819-div2\\b-sequence.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\cf-819-div2\\b-sequence.cpp",
+  "file": "D:/program/cpp/cpp-luogu/contest/cf-819-div2/b-sequence.cpp"
 }
 ]

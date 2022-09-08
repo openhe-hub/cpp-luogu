@@ -1870,6 +1870,110 @@ high-precision-template/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722c_word_game.dir\build.make CMakeFiles/1722c_word_game.dir/build
 .PHONY : 1722c_word_game/fast
 
+#=============================================================================
+# Target rules for targets named 1721b-deadly-laser
+
+# Build rule for target.
+1721b-deadly-laser: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1721b-deadly-laser
+.PHONY : 1721b-deadly-laser
+
+# fast build rule for target.
+1721b-deadly-laser/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1721b-deadly-laser.dir\build.make CMakeFiles/1721b-deadly-laser.dir/build
+.PHONY : 1721b-deadly-laser/fast
+
+#=============================================================================
+# Target rules for targets named 1722d-line
+
+# Build rule for target.
+1722d-line: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1722d-line
+.PHONY : 1722d-line
+
+# fast build rule for target.
+1722d-line/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722d-line.dir\build.make CMakeFiles/1722d-line.dir/build
+.PHONY : 1722d-line/fast
+
+#=============================================================================
+# Target rules for targets named 1715b-beautiful-array
+
+# Build rule for target.
+1715b-beautiful-array: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1715b-beautiful-array
+.PHONY : 1715b-beautiful-array
+
+# fast build rule for target.
+1715b-beautiful-array/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1715b-beautiful-array.dir\build.make CMakeFiles/1715b-beautiful-array.dir/build
+.PHONY : 1715b-beautiful-array/fast
+
+#=============================================================================
+# Target rules for targets named 1669g-fall-down
+
+# Build rule for target.
+1669g-fall-down: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1669g-fall-down
+.PHONY : 1669g-fall-down
+
+# fast build rule for target.
+1669g-fall-down/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1669g-fall-down.dir\build.make CMakeFiles/1669g-fall-down.dir/build
+.PHONY : 1669g-fall-down/fast
+
+#=============================================================================
+# Target rules for targets named 1679b-stone-age-problem
+
+# Build rule for target.
+1679b-stone-age-problem: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1679b-stone-age-problem
+.PHONY : 1679b-stone-age-problem
+
+# fast build rule for target.
+1679b-stone-age-problem/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem.dir\build.make CMakeFiles/1679b-stone-age-problem.dir/build
+.PHONY : 1679b-stone-age-problem/fast
+
+#=============================================================================
+# Target rules for targets named 1679b-stone-age-problem-2
+
+# Build rule for target.
+1679b-stone-age-problem-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1679b-stone-age-problem-2
+.PHONY : 1679b-stone-age-problem-2
+
+# fast build rule for target.
+1679b-stone-age-problem-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem-2.dir\build.make CMakeFiles/1679b-stone-age-problem-2.dir/build
+.PHONY : 1679b-stone-age-problem-2/fast
+
+#=============================================================================
+# Target rules for targets named a-array
+
+# Build rule for target.
+a-array: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 a-array
+.PHONY : a-array
+
+# fast build rule for target.
+a-array/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/build
+.PHONY : a-array/fast
+
+#=============================================================================
+# Target rules for targets named b-sequence
+
+# Build rule for target.
+b-sequence: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 b-sequence
+.PHONY : b-sequence
+
+# fast build rule for target.
+b-sequence/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/build
+.PHONY : b-sequence/fast
+
 _binary-index-tree/1774-nearest-god.obj: _binary-index-tree/1774-nearest-god.cpp.obj
 .PHONY : _binary-index-tree/1774-nearest-god.obj
 
@@ -2085,6 +2189,78 @@ contest/2020-oct/noi.s: contest/2020-oct/noi.cpp.s
 contest/2020-oct/noi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\noi.dir\build.make CMakeFiles/noi.dir/contest/2020-oct/noi.cpp.s
 .PHONY : contest/2020-oct/noi.cpp.s
+
+contest/cf-819-div2/a-array.obj: contest/cf-819-div2/a-array.cpp.obj
+.PHONY : contest/cf-819-div2/a-array.obj
+
+# target to build an object file
+contest/cf-819-div2/a-array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.obj
+.PHONY : contest/cf-819-div2/a-array.cpp.obj
+
+contest/cf-819-div2/a-array.i: contest/cf-819-div2/a-array.cpp.i
+.PHONY : contest/cf-819-div2/a-array.i
+
+# target to preprocess a source file
+contest/cf-819-div2/a-array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.i
+.PHONY : contest/cf-819-div2/a-array.cpp.i
+
+contest/cf-819-div2/a-array.s: contest/cf-819-div2/a-array.cpp.s
+.PHONY : contest/cf-819-div2/a-array.s
+
+# target to generate assembly for a file
+contest/cf-819-div2/a-array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a-array.dir\build.make CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.s
+.PHONY : contest/cf-819-div2/a-array.cpp.s
+
+contest/cf-819-div2/b-sequence.obj: contest/cf-819-div2/b-sequence.cpp.obj
+.PHONY : contest/cf-819-div2/b-sequence.obj
+
+# target to build an object file
+contest/cf-819-div2/b-sequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.obj
+.PHONY : contest/cf-819-div2/b-sequence.cpp.obj
+
+contest/cf-819-div2/b-sequence.i: contest/cf-819-div2/b-sequence.cpp.i
+.PHONY : contest/cf-819-div2/b-sequence.i
+
+# target to preprocess a source file
+contest/cf-819-div2/b-sequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.i
+.PHONY : contest/cf-819-div2/b-sequence.cpp.i
+
+contest/cf-819-div2/b-sequence.s: contest/cf-819-div2/b-sequence.cpp.s
+.PHONY : contest/cf-819-div2/b-sequence.s
+
+# target to generate assembly for a file
+contest/cf-819-div2/b-sequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\b-sequence.dir\build.make CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.s
+.PHONY : contest/cf-819-div2/b-sequence.cpp.s
+
+dfs/1669g-fall-down.obj: dfs/1669g-fall-down.cpp.obj
+.PHONY : dfs/1669g-fall-down.obj
+
+# target to build an object file
+dfs/1669g-fall-down.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1669g-fall-down.dir\build.make CMakeFiles/1669g-fall-down.dir/dfs/1669g-fall-down.cpp.obj
+.PHONY : dfs/1669g-fall-down.cpp.obj
+
+dfs/1669g-fall-down.i: dfs/1669g-fall-down.cpp.i
+.PHONY : dfs/1669g-fall-down.i
+
+# target to preprocess a source file
+dfs/1669g-fall-down.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1669g-fall-down.dir\build.make CMakeFiles/1669g-fall-down.dir/dfs/1669g-fall-down.cpp.i
+.PHONY : dfs/1669g-fall-down.cpp.i
+
+dfs/1669g-fall-down.s: dfs/1669g-fall-down.cpp.s
+.PHONY : dfs/1669g-fall-down.s
+
+# target to generate assembly for a file
+dfs/1669g-fall-down.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1669g-fall-down.dir\build.make CMakeFiles/1669g-fall-down.dir/dfs/1669g-fall-down.cpp.s
+.PHONY : dfs/1669g-fall-down.cpp.s
 
 discretion/discretion_demo.obj: discretion/discretion_demo.cpp.obj
 .PHONY : discretion/discretion_demo.obj
@@ -3718,6 +3894,30 @@ greedy/1199-three-countries.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1199-three-countries.dir\build.make CMakeFiles/1199-three-countries.dir/greedy/1199-three-countries.cpp.s
 .PHONY : greedy/1199-three-countries.cpp.s
 
+greedy/1721b-deadly-laser.obj: greedy/1721b-deadly-laser.cpp.obj
+.PHONY : greedy/1721b-deadly-laser.obj
+
+# target to build an object file
+greedy/1721b-deadly-laser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1721b-deadly-laser.dir\build.make CMakeFiles/1721b-deadly-laser.dir/greedy/1721b-deadly-laser.cpp.obj
+.PHONY : greedy/1721b-deadly-laser.cpp.obj
+
+greedy/1721b-deadly-laser.i: greedy/1721b-deadly-laser.cpp.i
+.PHONY : greedy/1721b-deadly-laser.i
+
+# target to preprocess a source file
+greedy/1721b-deadly-laser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1721b-deadly-laser.dir\build.make CMakeFiles/1721b-deadly-laser.dir/greedy/1721b-deadly-laser.cpp.i
+.PHONY : greedy/1721b-deadly-laser.cpp.i
+
+greedy/1721b-deadly-laser.s: greedy/1721b-deadly-laser.cpp.s
+.PHONY : greedy/1721b-deadly-laser.s
+
+# target to generate assembly for a file
+greedy/1721b-deadly-laser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1721b-deadly-laser.dir\build.make CMakeFiles/1721b-deadly-laser.dir/greedy/1721b-deadly-laser.cpp.s
+.PHONY : greedy/1721b-deadly-laser.cpp.s
+
 hash/1102-minus-problem.obj: hash/1102-minus-problem.cpp.obj
 .PHONY : hash/1102-minus-problem.obj
 
@@ -4126,6 +4326,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\luogu.dir\build.make CMakeFiles/luogu.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+math/1715b-beautiful-array.obj: math/1715b-beautiful-array.cpp.obj
+.PHONY : math/1715b-beautiful-array.obj
+
+# target to build an object file
+math/1715b-beautiful-array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1715b-beautiful-array.dir\build.make CMakeFiles/1715b-beautiful-array.dir/math/1715b-beautiful-array.cpp.obj
+.PHONY : math/1715b-beautiful-array.cpp.obj
+
+math/1715b-beautiful-array.i: math/1715b-beautiful-array.cpp.i
+.PHONY : math/1715b-beautiful-array.i
+
+# target to preprocess a source file
+math/1715b-beautiful-array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1715b-beautiful-array.dir\build.make CMakeFiles/1715b-beautiful-array.dir/math/1715b-beautiful-array.cpp.i
+.PHONY : math/1715b-beautiful-array.cpp.i
+
+math/1715b-beautiful-array.s: math/1715b-beautiful-array.cpp.s
+.PHONY : math/1715b-beautiful-array.s
+
+# target to generate assembly for a file
+math/1715b-beautiful-array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1715b-beautiful-array.dir\build.make CMakeFiles/1715b-beautiful-array.dir/math/1715b-beautiful-array.cpp.s
+.PHONY : math/1715b-beautiful-array.cpp.s
+
 math/prime/Erichsen-sieve.obj: math/prime/Erichsen-sieve.cpp.obj
 .PHONY : math/prime/Erichsen-sieve.obj
 
@@ -4197,6 +4421,54 @@ segment-tree/1531-hate.s: segment-tree/1531-hate.cpp.s
 segment-tree/1531-hate.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1513-hate.dir\build.make CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.s
 .PHONY : segment-tree/1531-hate.cpp.s
+
+segment-tree/1679b-stone-age-problem-2.obj: segment-tree/1679b-stone-age-problem-2.cpp.obj
+.PHONY : segment-tree/1679b-stone-age-problem-2.obj
+
+# target to build an object file
+segment-tree/1679b-stone-age-problem-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem-2.dir\build.make CMakeFiles/1679b-stone-age-problem-2.dir/segment-tree/1679b-stone-age-problem-2.cpp.obj
+.PHONY : segment-tree/1679b-stone-age-problem-2.cpp.obj
+
+segment-tree/1679b-stone-age-problem-2.i: segment-tree/1679b-stone-age-problem-2.cpp.i
+.PHONY : segment-tree/1679b-stone-age-problem-2.i
+
+# target to preprocess a source file
+segment-tree/1679b-stone-age-problem-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem-2.dir\build.make CMakeFiles/1679b-stone-age-problem-2.dir/segment-tree/1679b-stone-age-problem-2.cpp.i
+.PHONY : segment-tree/1679b-stone-age-problem-2.cpp.i
+
+segment-tree/1679b-stone-age-problem-2.s: segment-tree/1679b-stone-age-problem-2.cpp.s
+.PHONY : segment-tree/1679b-stone-age-problem-2.s
+
+# target to generate assembly for a file
+segment-tree/1679b-stone-age-problem-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem-2.dir\build.make CMakeFiles/1679b-stone-age-problem-2.dir/segment-tree/1679b-stone-age-problem-2.cpp.s
+.PHONY : segment-tree/1679b-stone-age-problem-2.cpp.s
+
+segment-tree/1679b-stone-age-problem.obj: segment-tree/1679b-stone-age-problem.cpp.obj
+.PHONY : segment-tree/1679b-stone-age-problem.obj
+
+# target to build an object file
+segment-tree/1679b-stone-age-problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem.dir\build.make CMakeFiles/1679b-stone-age-problem.dir/segment-tree/1679b-stone-age-problem.cpp.obj
+.PHONY : segment-tree/1679b-stone-age-problem.cpp.obj
+
+segment-tree/1679b-stone-age-problem.i: segment-tree/1679b-stone-age-problem.cpp.i
+.PHONY : segment-tree/1679b-stone-age-problem.i
+
+# target to preprocess a source file
+segment-tree/1679b-stone-age-problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem.dir\build.make CMakeFiles/1679b-stone-age-problem.dir/segment-tree/1679b-stone-age-problem.cpp.i
+.PHONY : segment-tree/1679b-stone-age-problem.cpp.i
+
+segment-tree/1679b-stone-age-problem.s: segment-tree/1679b-stone-age-problem.cpp.s
+.PHONY : segment-tree/1679b-stone-age-problem.s
+
+# target to generate assembly for a file
+segment-tree/1679b-stone-age-problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1679b-stone-age-problem.dir\build.make CMakeFiles/1679b-stone-age-problem.dir/segment-tree/1679b-stone-age-problem.cpp.s
+.PHONY : segment-tree/1679b-stone-age-problem.cpp.s
 
 segment-tree/2023-sequence.obj: segment-tree/2023-sequence.cpp.obj
 .PHONY : segment-tree/2023-sequence.obj
@@ -4536,6 +4808,30 @@ sort/1056-seats.s: sort/1056-seats.cpp.s
 sort/1056-seats.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1056-seats.dir\build.make CMakeFiles/1056-seats.dir/sort/1056-seats.cpp.s
 .PHONY : sort/1056-seats.cpp.s
+
+sort/1722d-line.obj: sort/1722d-line.cpp.obj
+.PHONY : sort/1722d-line.obj
+
+# target to build an object file
+sort/1722d-line.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722d-line.dir\build.make CMakeFiles/1722d-line.dir/sort/1722d-line.cpp.obj
+.PHONY : sort/1722d-line.cpp.obj
+
+sort/1722d-line.i: sort/1722d-line.cpp.i
+.PHONY : sort/1722d-line.i
+
+# target to preprocess a source file
+sort/1722d-line.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722d-line.dir\build.make CMakeFiles/1722d-line.dir/sort/1722d-line.cpp.i
+.PHONY : sort/1722d-line.cpp.i
+
+sort/1722d-line.s: sort/1722d-line.cpp.s
+.PHONY : sort/1722d-line.s
+
+# target to generate assembly for a file
+sort/1722d-line.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1722d-line.dir\build.make CMakeFiles/1722d-line.dir/sort/1722d-line.cpp.s
+.PHONY : sort/1722d-line.cpp.s
 
 string/3879-reading.obj: string/3879-reading.cpp.obj
 .PHONY : string/3879-reading.obj
@@ -5157,7 +5453,13 @@ help:
 	@echo ... 1601-add
 	@echo ... 1621-set
 	@echo ... 1629-post-path
+	@echo ... 1669g-fall-down
+	@echo ... 1679b-stone-age-problem
+	@echo ... 1679b-stone-age-problem-2
+	@echo ... 1715b-beautiful-array
+	@echo ... 1721b-deadly-laser
 	@echo ... 1722c_word_game
+	@echo ... 1722d-line
 	@echo ... 1754-ticket
 	@echo ... 1774-nearest-god
 	@echo ... 1807-longest-path
@@ -5211,9 +5513,11 @@ help:
 	@echo ... EK-demo
 	@echo ... Erichsen-screen
 	@echo ... Euler-screen
+	@echo ... a-array
 	@echo ... ac-demo
 	@echo ... ac-demo2
 	@echo ... ac-demo3
+	@echo ... b-sequence
 	@echo ... bellman-ford
 	@echo ... bit-demo1
 	@echo ... bit-demo2
@@ -5283,6 +5587,15 @@ help:
 	@echo ... contest/2020-oct/noi.obj
 	@echo ... contest/2020-oct/noi.i
 	@echo ... contest/2020-oct/noi.s
+	@echo ... contest/cf-819-div2/a-array.obj
+	@echo ... contest/cf-819-div2/a-array.i
+	@echo ... contest/cf-819-div2/a-array.s
+	@echo ... contest/cf-819-div2/b-sequence.obj
+	@echo ... contest/cf-819-div2/b-sequence.i
+	@echo ... contest/cf-819-div2/b-sequence.s
+	@echo ... dfs/1669g-fall-down.obj
+	@echo ... dfs/1669g-fall-down.i
+	@echo ... dfs/1669g-fall-down.s
 	@echo ... discretion/discretion_demo.obj
 	@echo ... discretion/discretion_demo.i
 	@echo ... discretion/discretion_demo.s
@@ -5487,6 +5800,9 @@ help:
 	@echo ... greedy/1199-three-countries.obj
 	@echo ... greedy/1199-three-countries.i
 	@echo ... greedy/1199-three-countries.s
+	@echo ... greedy/1721b-deadly-laser.obj
+	@echo ... greedy/1721b-deadly-laser.i
+	@echo ... greedy/1721b-deadly-laser.s
 	@echo ... hash/1102-minus-problem.obj
 	@echo ... hash/1102-minus-problem.i
 	@echo ... hash/1102-minus-problem.s
@@ -5538,6 +5854,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... math/1715b-beautiful-array.obj
+	@echo ... math/1715b-beautiful-array.i
+	@echo ... math/1715b-beautiful-array.s
 	@echo ... math/prime/Erichsen-sieve.obj
 	@echo ... math/prime/Erichsen-sieve.i
 	@echo ... math/prime/Erichsen-sieve.s
@@ -5547,6 +5866,12 @@ help:
 	@echo ... segment-tree/1531-hate.obj
 	@echo ... segment-tree/1531-hate.i
 	@echo ... segment-tree/1531-hate.s
+	@echo ... segment-tree/1679b-stone-age-problem-2.obj
+	@echo ... segment-tree/1679b-stone-age-problem-2.i
+	@echo ... segment-tree/1679b-stone-age-problem-2.s
+	@echo ... segment-tree/1679b-stone-age-problem.obj
+	@echo ... segment-tree/1679b-stone-age-problem.i
+	@echo ... segment-tree/1679b-stone-age-problem.s
 	@echo ... segment-tree/2023-sequence.obj
 	@echo ... segment-tree/2023-sequence.i
 	@echo ... segment-tree/2023-sequence.s
@@ -5589,6 +5914,9 @@ help:
 	@echo ... sort/1056-seats.obj
 	@echo ... sort/1056-seats.i
 	@echo ... sort/1056-seats.s
+	@echo ... sort/1722d-line.obj
+	@echo ... sort/1722d-line.i
+	@echo ... sort/1722d-line.s
 	@echo ... string/3879-reading.obj
 	@echo ... string/3879-reading.i
 	@echo ... string/3879-reading.s

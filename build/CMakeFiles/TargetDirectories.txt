@@ -133,5 +133,13 @@ D:/program/cpp/cpp-luogu/build/CMakeFiles/1111-restore-roads.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/4776-dijkstra.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/3366-kruskal.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/1722c_word_game.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1721b-deadly-laser.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1722d-line.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1715b-beautiful-array.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1669g-fall-down.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1679b-stone-age-problem.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/1679b-stone-age-problem-2.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/a-array.dir
+D:/program/cpp/cpp-luogu/build/CMakeFiles/b-sequence.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/edit_cache.dir
 D:/program/cpp/cpp-luogu/build/CMakeFiles/rebuild_cache.dir

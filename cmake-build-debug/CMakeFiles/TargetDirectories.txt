@@ -139,5 +139,10 @@ D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1715b-beautiful-array.dir
 D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1669g-fall-down.dir
 D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1679b-stone-age-problem.dir
 D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1679b-stone-age-problem-2.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/a-array.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/b-sequence.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1713b-optimal-reduction.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1702d-expensive-string.dir
+D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/1704c-virus.dir
 D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/program/cpp/cpp-luogu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
