@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/EK-demo.dir/graph/net-flow/EK-demo.cpp.obj"
-  "CMakeFiles/EK-demo.dir/graph/net-flow/EK-demo.cpp.obj.d"
-  "EK-demo.exe"
-  "EK-demo.exe.manifest"
+  "CMakeFiles/EK-demo.dir/graph/net-flow/EK-demo.cpp.o"
+  "EK-demo"
   "EK-demo.pdb"
-  "libEK-demo.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

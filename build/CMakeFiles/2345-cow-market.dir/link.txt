@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2345-cow-market.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2345-cow-market.dir/objects.a @CMakeFiles\2345-cow-market.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2345-cow-market.dir/objects.a -Wl,--no-whole-archive -o 2345-cow-market.exe -Wl,--out-implib,lib2345-cow-market.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2345-cow-market.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/2345-cow-market.dir/_binary-index-tree/2345-cow-market.cpp.o  -o 2345-cow-market 

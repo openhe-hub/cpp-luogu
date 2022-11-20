@@ -1,9 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/spfa-demo.dir/graph/template/spfa-demo.cpp.obj"
-  "CMakeFiles/spfa-demo.dir/graph/template/spfa-demo.cpp.obj.d"
-  "libspfa-demo.dll.a"
-  "spfa-demo.exe"
-  "spfa-demo.exe.manifest"
+  "CMakeFiles/spfa-demo.dir/graph/template/spfa-demo.cpp.o"
+  "spfa-demo"
   "spfa-demo.pdb"
 )
 

@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "4824-censor.exe"
-  "4824-censor.exe.manifest"
+  "4824-censor"
   "4824-censor.pdb"
-  "CMakeFiles/4824-censor.dir/string/4824-censor.cpp.obj"
-  "CMakeFiles/4824-censor.dir/string/4824-censor.cpp.obj.d"
-  "lib4824-censor.dll.a"
+  "CMakeFiles/4824-censor.dir/string/4824-censor.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

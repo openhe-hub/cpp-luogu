@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.obj"
-  "CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.obj.d"
-  "edit-distance.exe"
-  "edit-distance.exe.manifest"
+  "CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.o"
+  "edit-distance"
   "edit-distance.pdb"
-  "libedit-distance.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

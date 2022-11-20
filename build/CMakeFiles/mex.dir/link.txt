@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\mex.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\mex.dir/objects.a @CMakeFiles\mex.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\mex.dir/objects.a -Wl,--no-whole-archive -o mex.exe -Wl,--out-implib,libmex.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mex.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/mex.dir/contest/2020-oct/mex.cpp.o  -o mex 

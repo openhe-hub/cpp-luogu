@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1669g-fall-down.dir/dfs/1669g-fall-down.cpp.o  -o 1669g-fall-down 

@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.obj"
-  "CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.obj.d"
-  "dinic-demo.exe"
-  "dinic-demo.exe.manifest"
+  "CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.o"
+  "dinic-demo"
   "dinic-demo.pdb"
-  "libdinic-demo.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

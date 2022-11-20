@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\3384-tree-chain-template.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\3384-tree-chain-template.dir/objects.a @CMakeFiles\3384-tree-chain-template.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3384-tree-chain-template.dir/objects.a -Wl,--no-whole-archive -o 3384-tree-chain-template.exe -Wl,--out-implib,lib3384-tree-chain-template.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3384-tree-chain-template.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/3384-tree-chain-template.dir/tree/chain/3384-tree-chain-template.cpp.o  -o 3384-tree-chain-template 

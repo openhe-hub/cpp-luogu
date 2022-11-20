@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.o  -o a-array 

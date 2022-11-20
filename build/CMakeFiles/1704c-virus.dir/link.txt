@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1704c-virus.dir/greedy/1704c-virus.cpp.o  -o 1704c-virus 

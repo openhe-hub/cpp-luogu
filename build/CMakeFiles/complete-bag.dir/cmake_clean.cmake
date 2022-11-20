@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.obj"
-  "CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.obj.d"
-  "complete-bag.exe"
-  "complete-bag.exe.manifest"
+  "CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.o"
+  "complete-bag"
   "complete-bag.pdb"
-  "libcomplete-bag.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

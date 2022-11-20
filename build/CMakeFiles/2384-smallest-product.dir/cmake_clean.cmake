@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2384-smallest-product.exe"
-  "2384-smallest-product.exe.manifest"
+  "2384-smallest-product"
   "2384-smallest-product.pdb"
-  "CMakeFiles/2384-smallest-product.dir/graph/2384-smallest-product.cpp.obj"
-  "CMakeFiles/2384-smallest-product.dir/graph/2384-smallest-product.cpp.obj.d"
-  "lib2384-smallest-product.dll.a"
+  "CMakeFiles/2384-smallest-product.dir/graph/2384-smallest-product.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

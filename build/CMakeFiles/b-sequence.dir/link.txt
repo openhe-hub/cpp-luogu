@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.o  -o b-sequence 

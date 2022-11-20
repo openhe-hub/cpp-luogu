@@ -1,9 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/weight_segment_tree_demo.dir/segment-tree/weight_segment_tree_demo.cpp.obj"
-  "CMakeFiles/weight_segment_tree_demo.dir/segment-tree/weight_segment_tree_demo.cpp.obj.d"
-  "libweight_segment_tree_demo.dll.a"
-  "weight_segment_tree_demo.exe"
-  "weight_segment_tree_demo.exe.manifest"
+  "CMakeFiles/weight_segment_tree_demo.dir/segment-tree/weight_segment_tree_demo.cpp.o"
+  "weight_segment_tree_demo"
   "weight_segment_tree_demo.pdb"
 )
 

@@ -1,722 +1,737 @@
 [
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\luogu.dir\\main.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\main.cpp",
-  "file": "D:/program/cpp/cpp-luogu/main.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1702d-expensive-string.dir/greedy/1702d-expensive-string.cpp.o -c /workspaces/cpp-luogu/greedy/1702d-expensive-string.cpp",
+  "file": "/workspaces/cpp-luogu/greedy/1702d-expensive-string.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4913-tree-height.dir\\tree\\4913-tree-height.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\4913-tree-height.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/4913-tree-height.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1713b-optimal-reduction.dir/simulation/1713b-optimal-reduction.cpp.o -c /workspaces/cpp-luogu/simulation/1713b-optimal-reduction.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1713b-optimal-reduction.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1827-rebuild-tree.dir\\tree\\1827-rebuild-tree.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\1827-rebuild-tree.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/1827-rebuild-tree.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/b-sequence.dir/contest/cf-819-div2/b-sequence.cpp.o -c /workspaces/cpp-luogu/contest/cf-819-div2/b-sequence.cpp",
+  "file": "/workspaces/cpp-luogu/contest/cf-819-div2/b-sequence.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1030-rebuild-tree.dir\\tree\\1030-rebuild-tree.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\1030-rebuild-tree.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/1030-rebuild-tree.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1679b-stone-age-problem.dir/segment-tree/1679b-stone-age-problem.cpp.o -c /workspaces/cpp-luogu/segment-tree/1679b-stone-age-problem.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/1679b-stone-age-problem.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1364-min-distance.dir\\tree\\1364-min-distance.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\1364-min-distance.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/1364-min-distance.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1669g-fall-down.dir/dfs/1669g-fall-down.cpp.o -c /workspaces/cpp-luogu/dfs/1669g-fall-down.cpp",
+  "file": "/workspaces/cpp-luogu/dfs/1669g-fall-down.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3370-string-hash.dir\\hash\\3370-string-hash.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\3370-string-hash.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/3370-string-hash.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1715b-beautiful-array.dir/math/1715b-beautiful-array.cpp.o -c /workspaces/cpp-luogu/math/1715b-beautiful-array.cpp",
+  "file": "/workspaces/cpp-luogu/math/1715b-beautiful-array.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1102-minus-problem.dir\\hash\\1102-minus-problem.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\1102-minus-problem.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/1102-minus-problem.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1721b-deadly-laser.dir/greedy/1721b-deadly-laser.cpp.o -c /workspaces/cpp-luogu/greedy/1721b-deadly-laser.cpp",
+  "file": "/workspaces/cpp-luogu/greedy/1721b-deadly-laser.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1955-analyze-program.dir\\hash\\1955-analyze-program.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\1955-analyze-program.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/1955-analyze-program.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1722c_word_game.dir/simulation/1722c_word_game.cpp.o -c /workspaces/cpp-luogu/simulation/1722c_word_game.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1722c_word_game.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2078-friends.dir\\union-find\\2078-friends.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\union-find\\2078-friends.cpp",
-  "file": "D:/program/cpp/cpp-luogu/union-find/2078-friends.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3366-kruskal.dir/graph/3366-kruskal.cpp.o -c /workspaces/cpp-luogu/graph/3366-kruskal.cpp",
+  "file": "/workspaces/cpp-luogu/graph/3366-kruskal.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2256-race-judgement.dir\\union-find\\2256-race-judgement.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\union-find\\2256-race-judgement.cpp",
-  "file": "D:/program/cpp/cpp-luogu/union-find/2256-race-judgement.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1111-restore-roads.dir/graph/1111-restore-roads.cpp.o -c /workspaces/cpp-luogu/graph/1111-restore-roads.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1111-restore-roads.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3366-mst.dir\\graph\\template\\3366-mst.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\3366-mst.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/3366-mst.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3958-cheese.dir/graph/3958-cheese.cpp.o -c /workspaces/cpp-luogu/graph/3958-cheese.cpp",
+  "file": "/workspaces/cpp-luogu/graph/3958-cheese.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1991-communication-net.dir\\graph\\1991-communication-net.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1991-communication-net.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1991-communication-net.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1012-numbers.dir/simulation/1012-numbers.cpp.o -c /workspaces/cpp-luogu/simulation/1012-numbers.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1012-numbers.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1194-buy-gift.dir\\graph\\1194-buy-gift.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1194-buy-gift.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1194-buy-gift.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1011-station.dir/simulation/1011-station.cpp.o -c /workspaces/cpp-luogu/simulation/1011-station.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1011-station.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1194-buy-gift-prim.dir\\graph\\1194-buy-gift-prim.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1194-buy-gift-prim.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1194-buy-gift-prim.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1480-divide.dir/high-precision/1480-divide.cpp.o -c /workspaces/cpp-luogu/high-precision/1480-divide.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/1480-divide.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4779-dijkstra.dir\\graph\\template\\4779-dijkstra.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\4779-dijkstra.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/4779-dijkstra.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/template-1.dir/segment-tree/template-1.cpp.o -c /workspaces/cpp-luogu/segment-tree/template-1.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/template-1.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1629-post-path.dir\\graph\\1629-post-path.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1629-post-path.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1629-post-path.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1056-seats.dir/sort/1056-seats.cpp.o -c /workspaces/cpp-luogu/sort/1056-seats.cpp",
+  "file": "/workspaces/cpp-luogu/sort/1056-seats.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1342-invitation.dir\\graph\\1342-invitation.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1342-invitation.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1342-invitation.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4776-dijkstra.dir/graph/4776-dijkstra.cpp.o -c /workspaces/cpp-luogu/graph/4776-dijkstra.cpp",
+  "file": "/workspaces/cpp-luogu/graph/4776-dijkstra.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\01bag.dir\\dp\\bag\\template\\01bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\01bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/01bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1955-analyze-program.dir/hash/1955-analyze-program.cpp.o -c /workspaces/cpp-luogu/hash/1955-analyze-program.cpp",
+  "file": "/workspaces/cpp-luogu/hash/1955-analyze-program.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\01bag2.dir\\dp\\bag\\template\\01bag2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\01bag2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/01bag2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2615-magic.dir/simulation/2615-magic.cpp.o -c /workspaces/cpp-luogu/simulation/2615-magic.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/2615-magic.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\complete-bag.dir\\dp\\bag\\template\\complete-bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\complete-bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/complete-bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.o -c /workspaces/cpp-luogu/high-precision/high-precision-template.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/high-precision-template.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\multi-bag.dir\\dp\\bag\\template\\multi-bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\multi-bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/multi-bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1038-neural-net.dir/graph/1038-neural-net.cpp.o -c /workspaces/cpp-luogu/graph/1038-neural-net.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1038-neural-net.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\mixed-bag.dir\\dp\\bag\\template\\mixed-bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\mixed-bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/mixed-bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2121-carpet.dir/graph/basic/2121-carpet.cpp.o -c /workspaces/cpp-luogu/graph/basic/2121-carpet.cpp",
+  "file": "/workspaces/cpp-luogu/graph/basic/2121-carpet.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1048-gather-herb.dir\\dp\\1048-gather-herb.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1048-gather-herb.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1048-gather-herb.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/luogu.dir/main.cpp.o -c /workspaces/cpp-luogu/main.cpp",
+  "file": "/workspaces/cpp-luogu/main.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2918-buy-hay.dir\\dp\\2918-buy-hay.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\2918-buy-hay.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/2918-buy-hay.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1704c-virus.dir/greedy/1704c-virus.cpp.o -c /workspaces/cpp-luogu/greedy/1704c-virus.cpp",
+  "file": "/workspaces/cpp-luogu/greedy/1704c-virus.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\edit-distance.dir\\dp\\edit-distance.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\edit-distance.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/edit-distance.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/mex.dir/contest/2020-oct/mex.cpp.o -c /workspaces/cpp-luogu/contest/2020-oct/mex.cpp",
+  "file": "/workspaces/cpp-luogu/contest/2020-oct/mex.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\longest-common-sequence.dir\\dp\\longest-common-sequence.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\longest-common-sequence.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/longest-common-sequence.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2014-choose-class.dir/dp/tree/2014-choose-class.cpp.o -c /workspaces/cpp-luogu/dp/tree/2014-choose-class.cpp",
+  "file": "/workspaces/cpp-luogu/dp/tree/2014-choose-class.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1020-missile-intercept.dir\\dp\\1020-missile-intercept.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1020-missile-intercept.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1020-missile-intercept.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/ac-demo3.dir/string/ac-demo3.cpp.o -c /workspaces/cpp-luogu/string/ac-demo3.cpp",
+  "file": "/workspaces/cpp-luogu/string/ac-demo3.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1352-ball.dir\\dp\\tree\\1352-ball.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\tree\\1352-ball.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/tree/1352-ball.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/noi.dir/contest/2020-oct/noi.cpp.o -c /workspaces/cpp-luogu/contest/2020-oct/noi.cpp",
+  "file": "/workspaces/cpp-luogu/contest/2020-oct/noi.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2014-choose-class.dir\\dp\\tree\\2014-choose-class.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\tree\\2014-choose-class.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/tree/2014-choose-class.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/spfa-demo.dir/graph/template/spfa-demo.cpp.o -c /workspaces/cpp-luogu/graph/template/spfa-demo.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/spfa-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\5318-search.dir\\graph\\basic\\5318-search.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\basic\\5318-search.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/basic/5318-search.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1807-longest-path.dir/graph/basic/1807-longest-path.cpp.o -c /workspaces/cpp-luogu/graph/basic/1807-longest-path.cpp",
+  "file": "/workspaces/cpp-luogu/graph/basic/1807-longest-path.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3916-traverse.dir\\graph\\basic\\3916-traverse.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\basic\\3916-traverse.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/basic/3916-traverse.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3916-traverse.dir/graph/basic/3916-traverse.cpp.o -c /workspaces/cpp-luogu/graph/basic/3916-traverse.cpp",
+  "file": "/workspaces/cpp-luogu/graph/basic/3916-traverse.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1807-longest-path.dir\\graph\\basic\\1807-longest-path.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\basic\\1807-longest-path.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/basic/1807-longest-path.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/mixed-bag.dir/dp/bag/template/mixed-bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/mixed-bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/mixed-bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\bellman-ford.dir\\graph\\template\\bellman-ford.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\bellman-ford.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/bellman-ford.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/5318-search.dir/graph/basic/5318-search.cpp.o -c /workspaces/cpp-luogu/graph/basic/5318-search.cpp",
+  "file": "/workspaces/cpp-luogu/graph/basic/5318-search.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4017-food-chain.dir\\graph\\basic\\4017-food-chain.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\basic\\4017-food-chain.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/basic/4017-food-chain.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1168-mid.dir/heap/1168-mid.cpp.o -c /workspaces/cpp-luogu/heap/1168-mid.cpp",
+  "file": "/workspaces/cpp-luogu/heap/1168-mid.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\kruskal.dir\\graph\\template\\kruskal.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\kruskal.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/kruskal.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1328-rock.dir/simulation/1328-rock.cpp.o -c /workspaces/cpp-luogu/simulation/1328-rock.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1328-rock.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\noi.dir\\contest\\2020-oct\\noi.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\2020-oct\\noi.cpp",
-  "file": "D:/program/cpp/cpp-luogu/contest/2020-oct/noi.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1328-rock.dir/simulation/1061-jam.cpp.o -c /workspaces/cpp-luogu/simulation/1061-jam.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1061-jam.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\mex.dir\\contest\\2020-oct\\mex.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\2020-oct\\mex.cpp",
-  "file": "D:/program/cpp/cpp-luogu/contest/2020-oct/mex.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.o -c /workspaces/cpp-luogu/graph/template/floyd-demo.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/floyd-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2121-carpet.dir\\graph\\basic\\2121-carpet.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\basic\\2121-carpet.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/basic/2121-carpet.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1194-buy-gift.dir/graph/1194-buy-gift.cpp.o -c /workspaces/cpp-luogu/graph/1194-buy-gift.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1194-buy-gift.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\demo.dir\\segment-tree\\demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1601-add.dir/high-precision/1601-add.cpp.o -c /workspaces/cpp-luogu/high-precision/1601-add.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/1601-add.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\template-1.dir\\segment-tree\\template-1.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\template-1.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/template-1.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/edit-distance.dir/dp/edit-distance.cpp.o -c /workspaces/cpp-luogu/dp/edit-distance.cpp",
+  "file": "/workspaces/cpp-luogu/dp/edit-distance.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\template-2.dir\\segment-tree\\template-2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\template-2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/template-2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2104-bin.dir/hash/2104-bin.cpp.o -c /workspaces/cpp-luogu/hash/2104-bin.cpp",
+  "file": "/workspaces/cpp-luogu/hash/2104-bin.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1038-neural-net.dir\\graph\\1038-neural-net.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1038-neural-net.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1038-neural-net.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1364-min-distance.dir/tree/1364-min-distance.cpp.o -c /workspaces/cpp-luogu/tree/1364-min-distance.cpp",
+  "file": "/workspaces/cpp-luogu/tree/1364-min-distance.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\toposort.dir\\graph\\template\\toposort.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\toposort.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/toposort.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/tree-diameter.dir/tree/tree-diameter.cpp.o -c /workspaces/cpp-luogu/tree/tree-diameter.cpp",
+  "file": "/workspaces/cpp-luogu/tree/tree-diameter.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\discretization.dir\\hash\\discretization.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\discretization.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/discretization.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1091-chorus.dir/dp/1091-chorus.cpp.o -c /workspaces/cpp-luogu/dp/1091-chorus.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1091-chorus.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\discretization2.dir\\hash\\discretization2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\discretization2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/discretization2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/a-array.dir/contest/cf-819-div2/a-array.cpp.o -c /workspaces/cpp-luogu/contest/cf-819-div2/a-array.cpp",
+  "file": "/workspaces/cpp-luogu/contest/cf-819-div2/a-array.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2104-bin.dir\\hash\\2104-bin.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\hash\\2104-bin.cpp",
-  "file": "D:/program/cpp/cpp-luogu/hash/2104-bin.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1194-buy-gift-prim.dir/graph/1194-buy-gift-prim.cpp.o -c /workspaces/cpp-luogu/graph/1194-buy-gift-prim.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1194-buy-gift-prim.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1056-seats.dir\\sort\\1056-seats.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\sort\\1056-seats.cpp",
-  "file": "D:/program/cpp/cpp-luogu/sort/1056-seats.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1629-post-path.dir/graph/1629-post-path.cpp.o -c /workspaces/cpp-luogu/graph/1629-post-path.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1629-post-path.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1002-horse.dir\\dp\\1002-horse.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1002-horse.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1002-horse.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/fast-power.dir/high-precision/fast-power.cpp.o -c /workspaces/cpp-luogu/high-precision/fast-power.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/fast-power.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2196-mine.dir\\dp\\2196-mine.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\2196-mine.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/2196-mine.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1972-necklace.dir/_binary-index-tree/1972-necklace.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/1972-necklace.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/1972-necklace.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1077-flower.dir\\dp\\1077-flower.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1077-flower.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1077-flower.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1186.dir/graph/1186-traffic.cpp.o -c /workspaces/cpp-luogu/graph/1186-traffic.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1186-traffic.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1091-chorus.dir\\dp\\1091-chorus.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1091-chorus.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1091-chorus.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1991-communication-net.dir/graph/1991-communication-net.cpp.o -c /workspaces/cpp-luogu/graph/1991-communication-net.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1991-communication-net.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2722-score.dir\\dp\\2722-score.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\2722-score.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/2722-score.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/weight_segment_tree_demo.dir/segment-tree/weight_segment_tree_demo.cpp.o -c /workspaces/cpp-luogu/segment-tree/weight_segment_tree_demo.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/weight_segment_tree_demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1833-sakura.dir\\dp\\1833-sakura.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1833-sakura.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1833-sakura.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1102-minus-problem.dir/hash/1102-minus-problem.cpp.o -c /workspaces/cpp-luogu/hash/1102-minus-problem.cpp",
+  "file": "/workspaces/cpp-luogu/hash/1102-minus-problem.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1186.dir\\graph\\1186-traffic.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1186-traffic.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1186-traffic.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1352-ball.dir/dp/tree/1352-ball.cpp.o -c /workspaces/cpp-luogu/dp/tree/1352-ball.cpp",
+  "file": "/workspaces/cpp-luogu/dp/tree/1352-ball.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1044-stack.dir\\dp\\1044-stack.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1044-stack.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1044-stack.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/discretion_demo.dir/discretion/discretion_demo.cpp.o -c /workspaces/cpp-luogu/discretion/discretion_demo.cpp",
+  "file": "/workspaces/cpp-luogu/discretion/discretion_demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1754-ticket.dir\\dp\\1754-ticket.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\1754-ticket.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/1754-ticket.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2256-race-judgement.dir/union-find/2256-race-judgement.cpp.o -c /workspaces/cpp-luogu/union-find/2256-race-judgement.cpp",
+  "file": "/workspaces/cpp-luogu/union-find/2256-race-judgement.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2615-magic.dir\\simulation\\2615-magic.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\2615-magic.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/2615-magic.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1833-sakura.dir/dp/1833-sakura.cpp.o -c /workspaces/cpp-luogu/dp/1833-sakura.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1833-sakura.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2661-friend.dir\\graph\\2661-friend.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\2661-friend.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/2661-friend.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1342-invitation.dir/graph/1342-invitation.cpp.o -c /workspaces/cpp-luogu/graph/1342-invitation.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1342-invitation.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1328-rock.dir\\simulation\\1328-rock.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1328-rock.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1328-rock.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2078-friends.dir/union-find/2078-friends.cpp.o -c /workspaces/cpp-luogu/union-find/2078-friends.cpp",
+  "file": "/workspaces/cpp-luogu/union-find/2078-friends.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1328-rock.dir\\simulation\\1061-jam.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1061-jam.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1061-jam.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.o -c /workspaces/cpp-luogu/graph/template/kruskal.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/kruskal.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1351-value.dir\\graph\\1351-value.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1351-value.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1351-value.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3384-tree-chain-template.dir/tree/chain/3384-tree-chain-template.cpp.o -c /workspaces/cpp-luogu/tree/chain/3384-tree-chain-template.cpp",
+  "file": "/workspaces/cpp-luogu/tree/chain/3384-tree-chain-template.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\kmp-demo.dir\\string\\kmp-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\kmp-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/kmp-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1002-horse.dir/dp/1002-horse.cpp.o -c /workspaces/cpp-luogu/dp/1002-horse.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1002-horse.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4824-censor.dir\\string\\4824-censor.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\4824-censor.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/4824-censor.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1827-rebuild-tree.dir/tree/1827-rebuild-tree.cpp.o -c /workspaces/cpp-luogu/tree/1827-rebuild-tree.cpp",
+  "file": "/workspaces/cpp-luogu/tree/1827-rebuild-tree.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4391-transfer.dir\\string\\4391-transfer.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\4391-transfer.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/4391-transfer.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/demo.dir/segment-tree/demo.cpp.o -c /workspaces/cpp-luogu/segment-tree/demo.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\trie-demo.dir\\string\\trie-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\trie-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/trie-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4913-tree-height.dir/tree/4913-tree-height.cpp.o -c /workspaces/cpp-luogu/tree/4913-tree-height.cpp",
+  "file": "/workspaces/cpp-luogu/tree/4913-tree-height.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3879-reading.dir\\string\\3879-reading.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\3879-reading.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/3879-reading.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1621-set.dir/graph/1621-set.cpp.o -c /workspaces/cpp-luogu/graph/1621-set.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1621-set.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\ac-demo.dir\\string\\ac-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\ac-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/ac-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/01bag.dir/dp/bag/template/01bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/01bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/01bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\ac-demo2.dir\\string\\ac-demo2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\ac-demo2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/ac-demo2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2756-pilot-match.dir/graph/net-flow/2756-pilot-match.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/2756-pilot-match.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/2756-pilot-match.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\ac-demo3.dir\\string\\ac-demo3.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\ac-demo3.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/ac-demo3.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4391-transfer.dir/string/4391-transfer.cpp.o -c /workspaces/cpp-luogu/string/4391-transfer.cpp",
+  "file": "/workspaces/cpp-luogu/string/4391-transfer.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3966-count.dir\\string\\3966-count.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\string\\3966-count.cpp",
-  "file": "D:/program/cpp/cpp-luogu/string/3966-count.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2196-mine.dir/dp/2196-mine.cpp.o -c /workspaces/cpp-luogu/dp/2196-mine.cpp",
+  "file": "/workspaces/cpp-luogu/dp/2196-mine.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\high_precision.dir\\high-precision\\high_precision.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\high_precision.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/high_precision.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3370-string-hash.dir/hash/3370-string-hash.cpp.o -c /workspaces/cpp-luogu/hash/3370-string-hash.cpp",
+  "file": "/workspaces/cpp-luogu/hash/3370-string-hash.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\high-precision2.dir\\high-precision\\high-precision2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\high-precision2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/high-precision2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2722-score.dir/dp/2722-score.cpp.o -c /workspaces/cpp-luogu/dp/2722-score.cpp",
+  "file": "/workspaces/cpp-luogu/dp/2722-score.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1037-generation.dir\\high-precision\\1037-generation.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\1037-generation.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/1037-generation.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4779-dijkstra.dir/graph/template/4779-dijkstra.cpp.o -c /workspaces/cpp-luogu/graph/template/4779-dijkstra.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/4779-dijkstra.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\fast-power.dir\\high-precision\\fast-power.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\fast-power.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/fast-power.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/toposort.dir/graph/template/toposort.cpp.o -c /workspaces/cpp-luogu/graph/template/toposort.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/toposort.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1045-mason.dir\\high-precision\\1045-mason.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\1045-mason.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/1045-mason.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3385-neg-ring.dir/graph/template/3385-neg-ring.cpp.o -c /workspaces/cpp-luogu/graph/template/3385-neg-ring.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/3385-neg-ring.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\fast-matrix-power.dir\\high-precision\\fast-matrix-power.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\fast-matrix-power.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/fast-matrix-power.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/discretization.dir/hash/discretization.cpp.o -c /workspaces/cpp-luogu/hash/discretization.cpp",
+  "file": "/workspaces/cpp-luogu/hash/discretization.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\bit-demo1.dir\\_binary-index-tree\\bit-demo1.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\bit-demo1.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/bit-demo1.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2021_test.dir/test/2021_test.cpp.o -c /workspaces/cpp-luogu/test/2021_test.cpp",
+  "file": "/workspaces/cpp-luogu/test/2021_test.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\bit-demo2.dir\\_binary-index-tree\\bit-demo2.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\bit-demo2.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/bit-demo2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.o -c /workspaces/cpp-luogu/graph/template/bellman-ford.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/bellman-ford.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1168-mid.dir\\heap\\1168-mid.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\heap\\1168-mid.cpp",
-  "file": "D:/program/cpp/cpp-luogu/heap/1168-mid.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/01bag2.dir/dp/bag/template/01bag2.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/01bag2.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/01bag2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2345-cow-market.dir\\_binary-index-tree\\2345-cow-market.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\2345-cow-market.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/2345-cow-market.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1030-rebuild-tree.dir/tree/1030-rebuild-tree.cpp.o -c /workspaces/cpp-luogu/tree/1030-rebuild-tree.cpp",
+  "file": "/workspaces/cpp-luogu/tree/1030-rebuild-tree.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1880-combination.dir\\dp\\section\\1880-combination.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\section\\1880-combination.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/section/1880-combination.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1080-king-game.dir/greedy/1080-king-game.cpp.o -c /workspaces/cpp-luogu/greedy/1080-king-game.cpp",
+  "file": "/workspaces/cpp-luogu/greedy/1080-king-game.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1908-reversed-pair.dir\\_binary-index-tree\\1908-reversed-pair.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\1908-reversed-pair.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/1908-reversed-pair.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/longest-common-sequence.dir/dp/longest-common-sequence.cpp.o -c /workspaces/cpp-luogu/dp/longest-common-sequence.cpp",
+  "file": "/workspaces/cpp-luogu/dp/longest-common-sequence.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1774-nearest-god.dir\\_binary-index-tree\\1774-nearest-god.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\1774-nearest-god.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/1774-nearest-god.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1908-reversed-pair.dir/_binary-index-tree/1908-reversed-pair.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/1908-reversed-pair.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/1908-reversed-pair.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\5057-binary-operation.dir\\_binary-index-tree\\5057-binary-operation.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\5057-binary-operation.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/5057-binary-operation.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3831-return-home.dir/graph/3831-return-home.cpp.o -c /workspaces/cpp-luogu/graph/3831-return-home.cpp",
+  "file": "/workspaces/cpp-luogu/graph/3831-return-home.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1466-subset-num.dir\\dp\\bag\\exercise\\1466-subset-num.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\exercise\\1466-subset-num.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/exercise/1466-subset-num.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/complete-bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/complete-bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\group-bag.dir\\dp\\bag\\template\\group-bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\group-bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/group-bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.o -c /workspaces/cpp-luogu/math/prime/Euler-sieve.cpp",
+  "file": "/workspaces/cpp-luogu/math/prime/Euler-sieve.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\5322-play-war.dir\\dp\\bag\\exercise\\5322-play-war.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\exercise\\5322-play-war.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/exercise/5322-play-war.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2384-smallest-product.dir/graph/2384-smallest-product.cpp.o -c /workspaces/cpp-luogu/graph/2384-smallest-product.cpp",
+  "file": "/workspaces/cpp-luogu/graph/2384-smallest-product.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\EK-demo.dir\\graph\\net-flow\\EK-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\EK-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/EK-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/multi-bag.dir/dp/bag/template/multi-bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/multi-bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/multi-bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2740-drainage.dir\\graph\\net-flow\\2740-drainage.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\2740-drainage.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/2740-drainage.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.o -c /workspaces/cpp-luogu/graph/template/3366-mst.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/3366-mst.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\dinic-demo.dir\\graph\\net-flow\\dinic-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\dinic-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/dinic-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2661-friend.dir/graph/2661-friend.cpp.o -c /workspaces/cpp-luogu/graph/2661-friend.cpp",
+  "file": "/workspaces/cpp-luogu/graph/2661-friend.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2756-pilot-match.dir\\graph\\net-flow\\2756-pilot-match.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\2756-pilot-match.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/2756-pilot-match.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1048-gather-herb.dir/dp/1048-gather-herb.cpp.o -c /workspaces/cpp-luogu/dp/1048-gather-herb.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1048-gather-herb.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3254-table-arrange.dir\\graph\\net-flow\\3254-table-arrange.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\3254-table-arrange.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/3254-table-arrange.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2918-buy-hay.dir/dp/2918-buy-hay.cpp.o -c /workspaces/cpp-luogu/dp/2918-buy-hay.cpp",
+  "file": "/workspaces/cpp-luogu/dp/2918-buy-hay.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2763-arrange-test.dir\\graph\\net-flow\\2763-arrange-test.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\net-flow\\2763-arrange-test.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/net-flow/2763-arrange-test.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/discretization2.dir/hash/discretization2.cpp.o -c /workspaces/cpp-luogu/hash/discretization2.cpp",
+  "file": "/workspaces/cpp-luogu/hash/discretization2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\tree-diameter.dir\\tree\\tree-diameter.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\tree-diameter.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/tree-diameter.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1020-missile-intercept.dir/dp/1020-missile-intercept.cpp.o -c /workspaces/cpp-luogu/dp/1020-missile-intercept.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1020-missile-intercept.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4408-search-boy.dir\\tree\\4408-search-boy.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\4408-search-boy.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/4408-search-boy.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1351-value.dir/graph/1351-value.cpp.o -c /workspaces/cpp-luogu/graph/1351-value.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1351-value.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\depend-bag.dir\\dp\\bag\\template\\depend-bag.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\template\\depend-bag.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/template/depend-bag.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/kmp-demo.dir/string/kmp-demo.cpp.o -c /workspaces/cpp-luogu/string/kmp-demo.cpp",
+  "file": "/workspaces/cpp-luogu/string/kmp-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1064-tree-budget.dir\\dp\\bag\\exercise\\1064-tree-budget.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dp\\bag\\exercise\\1064-tree-budget.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dp/bag/exercise/1064-tree-budget.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1077-flower.dir/dp/1077-flower.cpp.o -c /workspaces/cpp-luogu/dp/1077-flower.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1077-flower.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1621-set.dir\\graph\\1621-set.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1621-set.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1621-set.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3879-reading.dir/string/3879-reading.cpp.o -c /workspaces/cpp-luogu/string/3879-reading.cpp",
+  "file": "/workspaces/cpp-luogu/string/3879-reading.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\floyd-demo.dir\\graph\\template\\floyd-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\floyd-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/floyd-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1199-three-countries.dir/greedy/1199-three-countries.cpp.o -c /workspaces/cpp-luogu/greedy/1199-three-countries.cpp",
+  "file": "/workspaces/cpp-luogu/greedy/1199-three-countries.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1841-important-cities.dir\\graph\\1841-important-cities.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1841-important-cities.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1841-important-cities.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/ac-demo.dir/string/ac-demo.cpp.o -c /workspaces/cpp-luogu/string/ac-demo.cpp",
+  "file": "/workspaces/cpp-luogu/string/ac-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\spfa-demo.dir\\graph\\template\\spfa-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\spfa-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/spfa-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/ac-demo2.dir/string/ac-demo2.cpp.o -c /workspaces/cpp-luogu/string/ac-demo2.cpp",
+  "file": "/workspaces/cpp-luogu/string/ac-demo2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\dijkstra-demo.dir\\graph\\template\\dijkstra-demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\dijkstra-demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/dijkstra-demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3966-count.dir/string/3966-count.cpp.o -c /workspaces/cpp-luogu/string/3966-count.cpp",
+  "file": "/workspaces/cpp-luogu/string/3966-count.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3385-neg-ring.dir\\graph\\template\\3385-neg-ring.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\template\\3385-neg-ring.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/template/3385-neg-ring.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/high_precision.dir/high-precision/high_precision.cpp.o -c /workspaces/cpp-luogu/high-precision/high_precision.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/high_precision.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2384-smallest-product.dir\\graph\\2384-smallest-product.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\2384-smallest-product.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/2384-smallest-product.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1722d-line.dir/sort/1722d-line.cpp.o -c /workspaces/cpp-luogu/sort/1722d-line.cpp",
+  "file": "/workspaces/cpp-luogu/sort/1722d-line.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3831-return-home.dir\\graph\\3831-return-home.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\3831-return-home.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/3831-return-home.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.o -c /workspaces/cpp-luogu/high-precision/high-precision2.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/high-precision2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2212-water-field.dir\\graph\\2212-water-field.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\2212-water-field.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/2212-water-field.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/trie-demo.dir/string/trie-demo.cpp.o -c /workspaces/cpp-luogu/string/trie-demo.cpp",
+  "file": "/workspaces/cpp-luogu/string/trie-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\build-road.dir\\graph\\build-road.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\build-road.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/build-road.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1037-generation.dir/high-precision/1037-generation.cpp.o -c /workspaces/cpp-luogu/high-precision/1037-generation.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/1037-generation.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1972-necklace.dir\\_binary-index-tree\\1972-necklace.cpp.obj -c \"D:\\program\\cpp\\cpp-luogu\\ binary-index-tree\\1972-necklace.cpp\"",
-  "file": "D:/program/cpp/cpp-luogu/ binary-index-tree/1972-necklace.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4408-search-boy.dir/tree/4408-search-boy.cpp.o -c /workspaces/cpp-luogu/tree/4408-search-boy.cpp",
+  "file": "/workspaces/cpp-luogu/tree/4408-search-boy.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test_debug.dir\\test\\test_debug.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\test\\test_debug.cpp",
-  "file": "D:/program/cpp/cpp-luogu/test/test_debug.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1044-stack.dir/dp/1044-stack.cpp.o -c /workspaces/cpp-luogu/dp/1044-stack.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1044-stack.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test_input.dir\\test\\test_input.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\test\\test_input.cpp",
-  "file": "D:/program/cpp/cpp-luogu/test/test_input.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1045-mason.dir/high-precision/1045-mason.cpp.o -c /workspaces/cpp-luogu/high-precision/1045-mason.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/1045-mason.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\segment_tree_demo1.dir\\segment-tree\\segment_tree_demo1.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\segment_tree_demo1.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/segment_tree_demo1.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/test_debug.dir/test/test_debug.cpp.o -c /workspaces/cpp-luogu/test/test_debug.cpp",
+  "file": "/workspaces/cpp-luogu/test/test_debug.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\segment_tree_demo2.dir\\segment-tree\\segment_tree_demo2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\segment_tree_demo2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/segment_tree_demo2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1513-hate.dir/segment-tree/1531-hate.cpp.o -c /workspaces/cpp-luogu/segment-tree/1531-hate.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/1531-hate.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2023-sequence.dir\\segment-tree\\2023-sequence.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\2023-sequence.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/2023-sequence.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/fast-matrix-power.dir/high-precision/fast-matrix-power.cpp.o -c /workspaces/cpp-luogu/high-precision/fast-matrix-power.cpp",
+  "file": "/workspaces/cpp-luogu/high-precision/fast-matrix-power.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1513-hate.dir\\segment-tree\\1531-hate.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\1531-hate.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/1531-hate.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/bit-demo1.dir/_binary-index-tree/bit-demo1.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/bit-demo1.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/bit-demo1.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\weight_segment_tree_demo.dir\\segment-tree\\weight_segment_tree_demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\weight_segment_tree_demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/weight_segment_tree_demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/bit-demo2.dir/_binary-index-tree/bit-demo2.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/bit-demo2.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/bit-demo2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\discretion_demo.dir\\discretion\\discretion_demo.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\discretion\\discretion_demo.cpp",
-  "file": "D:/program/cpp/cpp-luogu/discretion/discretion_demo.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2763-arrange-test.dir/graph/net-flow/2763-arrange-test.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/2763-arrange-test.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/2763-arrange-test.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\loj-144-dfn1.dir\\tree\\dfn\\loj-144-dfn1.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\dfn\\loj-144-dfn1.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/dfn/loj-144-dfn1.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2345-cow-market.dir/_binary-index-tree/2345-cow-market.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/2345-cow-market.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/2345-cow-market.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\loj-145-dfn2.dir\\tree\\dfn\\loj-145-dfn2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\dfn\\loj-145-dfn2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/dfn/loj-145-dfn2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1880-combination.dir/dp/section/1880-combination.cpp.o -c /workspaces/cpp-luogu/dp/section/1880-combination.cpp",
+  "file": "/workspaces/cpp-luogu/dp/section/1880-combination.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3384-tree-chain-template.dir\\tree\\chain\\3384-tree-chain-template.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\tree\\chain\\3384-tree-chain-template.cpp",
-  "file": "D:/program/cpp/cpp-luogu/tree/chain/3384-tree-chain-template.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1774-nearest-god.dir/_binary-index-tree/1774-nearest-god.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/1774-nearest-god.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/1774-nearest-god.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\Erichsen-screen.dir\\math\\prime\\Erichsen-sieve.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\math\\prime\\Erichsen-sieve.cpp",
-  "file": "D:/program/cpp/cpp-luogu/math/prime/Erichsen-sieve.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/build-road.dir/graph/build-road.cpp.o -c /workspaces/cpp-luogu/graph/build-road.cpp",
+  "file": "/workspaces/cpp-luogu/graph/build-road.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\Euler-screen.dir\\math\\prime\\Euler-sieve.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\math\\prime\\Euler-sieve.cpp",
-  "file": "D:/program/cpp/cpp-luogu/math/prime/Euler-sieve.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/5057-binary-operation.dir/_binary-index-tree/5057-binary-operation.cpp.o -c \"/workspaces/cpp-luogu/ binary-index-tree/5057-binary-operation.cpp\"",
+  "file": "/workspaces/cpp-luogu/ binary-index-tree/5057-binary-operation.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\2021_test.dir\\test\\2021_test.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\test\\2021_test.cpp",
-  "file": "D:/program/cpp/cpp-luogu/test/2021_test.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/group-bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/group-bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\test.dir\\test\\test.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\test\\test.cpp",
-  "file": "D:/program/cpp/cpp-luogu/test/test.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1466-subset-num.dir/dp/bag/exercise/1466-subset-num.cpp.o -c /workspaces/cpp-luogu/dp/bag/exercise/1466-subset-num.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/exercise/1466-subset-num.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1061-jam.dir\\simulation\\1061-jam.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1061-jam.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1061-jam.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4824-censor.dir/string/4824-censor.cpp.o -c /workspaces/cpp-luogu/string/4824-censor.cpp",
+  "file": "/workspaces/cpp-luogu/string/4824-censor.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1199-three-countries.dir\\greedy\\1199-three-countries.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\greedy\\1199-three-countries.cpp",
-  "file": "D:/program/cpp/cpp-luogu/greedy/1199-three-countries.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/5322-play-war.dir/dp/bag/exercise/5322-play-war.cpp.o -c /workspaces/cpp-luogu/dp/bag/exercise/5322-play-war.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/exercise/5322-play-war.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1080-king-game.dir\\greedy\\1080-king-game.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\greedy\\1080-king-game.cpp",
-  "file": "D:/program/cpp/cpp-luogu/greedy/1080-king-game.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/EK-demo.dir/graph/net-flow/EK-demo.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/EK-demo.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/EK-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\high-precision-template.dir\\high-precision\\high-precision-template.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\high-precision-template.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/high-precision-template.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2740-drainage.dir/graph/net-flow/2740-drainage.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/2740-drainage.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/2740-drainage.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1601-add.dir\\high-precision\\1601-add.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\1601-add.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/1601-add.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.o -c /workspaces/cpp-luogu/dp/bag/template/depend-bag.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/template/depend-bag.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1480-divide.dir\\high-precision\\1480-divide.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\high-precision\\1480-divide.cpp",
-  "file": "D:/program/cpp/cpp-luogu/high-precision/1480-divide.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/4017-food-chain.dir/graph/basic/4017-food-chain.cpp.o -c /workspaces/cpp-luogu/graph/basic/4017-food-chain.cpp",
+  "file": "/workspaces/cpp-luogu/graph/basic/4017-food-chain.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1011-station.dir\\simulation\\1011-station.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1011-station.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1011-station.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/dinic-demo.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/dinic-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1012-numbers.dir\\simulation\\1012-numbers.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1012-numbers.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1012-numbers.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1064-tree-budget.dir/dp/bag/exercise/1064-tree-budget.cpp.o -c /workspaces/cpp-luogu/dp/bag/exercise/1064-tree-budget.cpp",
+  "file": "/workspaces/cpp-luogu/dp/bag/exercise/1064-tree-budget.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3958-cheese.dir\\graph\\3958-cheese.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\3958-cheese.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/3958-cheese.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1841-important-cities.dir/graph/1841-important-cities.cpp.o -c /workspaces/cpp-luogu/graph/1841-important-cities.cpp",
+  "file": "/workspaces/cpp-luogu/graph/1841-important-cities.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1111-restore-roads.dir\\graph\\1111-restore-roads.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\1111-restore-roads.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/1111-restore-roads.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/dijkstra-demo.dir/graph/template/dijkstra-demo.cpp.o -c /workspaces/cpp-luogu/graph/template/dijkstra-demo.cpp",
+  "file": "/workspaces/cpp-luogu/graph/template/dijkstra-demo.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\4776-dijkstra.dir\\graph\\4776-dijkstra.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\4776-dijkstra.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/4776-dijkstra.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2212-water-field.dir/graph/2212-water-field.cpp.o -c /workspaces/cpp-luogu/graph/2212-water-field.cpp",
+  "file": "/workspaces/cpp-luogu/graph/2212-water-field.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\3366-kruskal.dir\\graph\\3366-kruskal.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\graph\\3366-kruskal.cpp",
-  "file": "D:/program/cpp/cpp-luogu/graph/3366-kruskal.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/template-2.dir/segment-tree/template-2.cpp.o -c /workspaces/cpp-luogu/segment-tree/template-2.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/template-2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1722c_word_game.dir\\simulation\\1722c_word_game.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\simulation\\1722c_word_game.cpp",
-  "file": "D:/program/cpp/cpp-luogu/simulation/1722c_word_game.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/test_input.dir/test/test_input.cpp.o -c /workspaces/cpp-luogu/test/test_input.cpp",
+  "file": "/workspaces/cpp-luogu/test/test_input.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1721b-deadly-laser.dir\\greedy\\1721b-deadly-laser.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\greedy\\1721b-deadly-laser.cpp",
-  "file": "D:/program/cpp/cpp-luogu/greedy/1721b-deadly-laser.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1679b-stone-age-problem-2.dir/segment-tree/1679b-stone-age-problem-2.cpp.o -c /workspaces/cpp-luogu/segment-tree/1679b-stone-age-problem-2.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/1679b-stone-age-problem-2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1722d-line.dir\\sort\\1722d-line.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\sort\\1722d-line.cpp",
-  "file": "D:/program/cpp/cpp-luogu/sort/1722d-line.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/segment_tree_demo1.dir/segment-tree/segment_tree_demo1.cpp.o -c /workspaces/cpp-luogu/segment-tree/segment_tree_demo1.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/segment_tree_demo1.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1715b-beautiful-array.dir\\math\\1715b-beautiful-array.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\math\\1715b-beautiful-array.cpp",
-  "file": "D:/program/cpp/cpp-luogu/math/1715b-beautiful-array.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/segment_tree_demo2.dir/segment-tree/segment_tree_demo2.cpp.o -c /workspaces/cpp-luogu/segment-tree/segment_tree_demo2.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/segment_tree_demo2.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1669g-fall-down.dir\\dfs\\1669g-fall-down.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\dfs\\1669g-fall-down.cpp",
-  "file": "D:/program/cpp/cpp-luogu/dfs/1669g-fall-down.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1061-jam.dir/simulation/1061-jam.cpp.o -c /workspaces/cpp-luogu/simulation/1061-jam.cpp",
+  "file": "/workspaces/cpp-luogu/simulation/1061-jam.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1679b-stone-age-problem.dir\\segment-tree\\1679b-stone-age-problem.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\1679b-stone-age-problem.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/1679b-stone-age-problem.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/3254-table-arrange.dir/graph/net-flow/3254-table-arrange.cpp.o -c /workspaces/cpp-luogu/graph/net-flow/3254-table-arrange.cpp",
+  "file": "/workspaces/cpp-luogu/graph/net-flow/3254-table-arrange.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\1679b-stone-age-problem-2.dir\\segment-tree\\1679b-stone-age-problem-2.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\segment-tree\\1679b-stone-age-problem-2.cpp",
-  "file": "D:/program/cpp/cpp-luogu/segment-tree/1679b-stone-age-problem-2.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/2023-sequence.dir/segment-tree/2023-sequence.cpp.o -c /workspaces/cpp-luogu/segment-tree/2023-sequence.cpp",
+  "file": "/workspaces/cpp-luogu/segment-tree/2023-sequence.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\a-array.dir\\contest\\cf-819-div2\\a-array.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\cf-819-div2\\a-array.cpp",
-  "file": "D:/program/cpp/cpp-luogu/contest/cf-819-div2/a-array.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/loj-144-dfn1.dir/tree/dfn/loj-144-dfn1.cpp.o -c /workspaces/cpp-luogu/tree/dfn/loj-144-dfn1.cpp",
+  "file": "/workspaces/cpp-luogu/tree/dfn/loj-144-dfn1.cpp"
 },
 {
-  "directory": "D:/program/cpp/cpp-luogu/build",
-  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\b-sequence.dir\\contest\\cf-819-div2\\b-sequence.cpp.obj -c D:\\program\\cpp\\cpp-luogu\\contest\\cf-819-div2\\b-sequence.cpp",
-  "file": "D:/program/cpp/cpp-luogu/contest/cf-819-div2/b-sequence.cpp"
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/1754-ticket.dir/dp/1754-ticket.cpp.o -c /workspaces/cpp-luogu/dp/1754-ticket.cpp",
+  "file": "/workspaces/cpp-luogu/dp/1754-ticket.cpp"
+},
+{
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/loj-145-dfn2.dir/tree/dfn/loj-145-dfn2.cpp.o -c /workspaces/cpp-luogu/tree/dfn/loj-145-dfn2.cpp",
+  "file": "/workspaces/cpp-luogu/tree/dfn/loj-145-dfn2.cpp"
+},
+{
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.o -c /workspaces/cpp-luogu/math/prime/Erichsen-sieve.cpp",
+  "file": "/workspaces/cpp-luogu/math/prime/Erichsen-sieve.cpp"
+},
+{
+  "directory": "/workspaces/cpp-luogu/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/test.dir/test/test.cpp.o -c /workspaces/cpp-luogu/test/test.cpp",
+  "file": "/workspaces/cpp-luogu/test/test.cpp"
 }
 ]

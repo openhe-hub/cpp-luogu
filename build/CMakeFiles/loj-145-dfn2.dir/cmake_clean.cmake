@@ -1,9 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/loj-145-dfn2.dir/tree/dfn/loj-145-dfn2.cpp.obj"
-  "CMakeFiles/loj-145-dfn2.dir/tree/dfn/loj-145-dfn2.cpp.obj.d"
-  "libloj-145-dfn2.dll.a"
-  "loj-145-dfn2.exe"
-  "loj-145-dfn2.exe.manifest"
+  "CMakeFiles/loj-145-dfn2.dir/tree/dfn/loj-145-dfn2.cpp.o"
+  "loj-145-dfn2"
   "loj-145-dfn2.pdb"
 )
 

@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1038-neural-net.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1038-neural-net.dir/objects.a @CMakeFiles\1038-neural-net.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1038-neural-net.dir/objects.a -Wl,--no-whole-archive -o 1038-neural-net.exe -Wl,--out-implib,lib1038-neural-net.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1038-neural-net.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1038-neural-net.dir/graph/1038-neural-net.cpp.o  -o 1038-neural-net 

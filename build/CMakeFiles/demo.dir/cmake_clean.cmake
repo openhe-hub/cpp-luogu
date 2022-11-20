@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/segment-tree/demo.cpp.obj"
-  "CMakeFiles/demo.dir/segment-tree/demo.cpp.obj.d"
-  "demo.exe"
-  "demo.exe.manifest"
+  "CMakeFiles/demo.dir/segment-tree/demo.cpp.o"
+  "demo"
   "demo.pdb"
-  "libdemo.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

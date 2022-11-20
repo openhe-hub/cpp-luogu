@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/discretization2.dir/hash/discretization2.cpp.obj"
-  "CMakeFiles/discretization2.dir/hash/discretization2.cpp.obj.d"
-  "discretization2.exe"
-  "discretization2.exe.manifest"
+  "CMakeFiles/discretization2.dir/hash/discretization2.cpp.o"
+  "discretization2"
   "discretization2.pdb"
-  "libdiscretization2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

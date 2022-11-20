@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1186.exe"
-  "1186.exe.manifest"
+  "1186"
   "1186.pdb"
-  "CMakeFiles/1186.dir/graph/1186-traffic.cpp.obj"
-  "CMakeFiles/1186.dir/graph/1186-traffic.cpp.obj.d"
-  "lib1186.dll.a"
+  "CMakeFiles/1186.dir/graph/1186-traffic.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

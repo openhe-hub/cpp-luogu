@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.obj"
-  "CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.obj.d"
-  "group-bag.exe"
-  "group-bag.exe.manifest"
+  "CMakeFiles/group-bag.dir/dp/bag/template/group-bag.cpp.o"
+  "group-bag"
   "group-bag.pdb"
-  "libgroup-bag.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

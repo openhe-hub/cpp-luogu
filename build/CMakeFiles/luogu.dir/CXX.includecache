@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/cpp project/luogu/main.cpp
+/workspaces/cpp-luogu/main.cpp
 iostream
 -
 

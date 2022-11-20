@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\EK-demo.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\EK-demo.dir/objects.a @CMakeFiles\EK-demo.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\EK-demo.dir/objects.a -Wl,--no-whole-archive -o EK-demo.exe -Wl,--out-implib,libEK-demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EK-demo.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/EK-demo.dir/graph/net-flow/EK-demo.cpp.o  -o EK-demo 

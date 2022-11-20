@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\fast-matrix-power.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\fast-matrix-power.dir/objects.a @CMakeFiles\fast-matrix-power.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\fast-matrix-power.dir/objects.a -Wl,--no-whole-archive -o fast-matrix-power.exe -Wl,--out-implib,libfast-matrix-power.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fast-matrix-power.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/fast-matrix-power.dir/high-precision/fast-matrix-power.cpp.o  -o fast-matrix-power 

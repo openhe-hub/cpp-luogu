@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\3366-mst.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\3366-mst.dir/objects.a @CMakeFiles\3366-mst.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3366-mst.dir/objects.a -Wl,--no-whole-archive -o 3366-mst.exe -Wl,--out-implib,lib3366-mst.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3366-mst.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.o  -o 3366-mst 

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1722d-line.dir/sort/1722d-line.cpp.o  -o 1722d-line 

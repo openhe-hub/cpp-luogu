@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "4779-dijkstra.exe"
-  "4779-dijkstra.exe.manifest"
+  "4779-dijkstra"
   "4779-dijkstra.pdb"
-  "CMakeFiles/4779-dijkstra.dir/graph/template/4779-dijkstra.cpp.obj"
-  "CMakeFiles/4779-dijkstra.dir/graph/template/4779-dijkstra.cpp.obj.d"
-  "lib4779-dijkstra.dll.a"
+  "CMakeFiles/4779-dijkstra.dir/graph/template/4779-dijkstra.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

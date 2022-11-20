@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\template-1.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\template-1.dir/objects.a @CMakeFiles\template-1.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\template-1.dir/objects.a -Wl,--no-whole-archive -o template-1.exe -Wl,--out-implib,libtemplate-1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\template-1.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/template-1.dir/segment-tree/template-1.cpp.o  -o template-1 

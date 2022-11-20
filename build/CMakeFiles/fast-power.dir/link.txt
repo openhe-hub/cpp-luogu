@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\fast-power.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\fast-power.dir/objects.a @CMakeFiles\fast-power.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\fast-power.dir/objects.a -Wl,--no-whole-archive -o fast-power.exe -Wl,--out-implib,libfast-power.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fast-power.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/fast-power.dir/high-precision/fast-power.cpp.o  -o fast-power 

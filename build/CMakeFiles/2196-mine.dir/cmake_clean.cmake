@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2196-mine.exe"
-  "2196-mine.exe.manifest"
+  "2196-mine"
   "2196-mine.pdb"
-  "CMakeFiles/2196-mine.dir/dp/2196-mine.cpp.obj"
-  "CMakeFiles/2196-mine.dir/dp/2196-mine.cpp.obj.d"
-  "lib2196-mine.dll.a"
+  "CMakeFiles/2196-mine.dir/dp/2196-mine.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

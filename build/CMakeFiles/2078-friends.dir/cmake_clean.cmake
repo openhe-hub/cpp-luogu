@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2078-friends.exe"
-  "2078-friends.exe.manifest"
+  "2078-friends"
   "2078-friends.pdb"
-  "CMakeFiles/2078-friends.dir/union-find/2078-friends.cpp.obj"
-  "CMakeFiles/2078-friends.dir/union-find/2078-friends.cpp.obj.d"
-  "lib2078-friends.dll.a"
+  "CMakeFiles/2078-friends.dir/union-find/2078-friends.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

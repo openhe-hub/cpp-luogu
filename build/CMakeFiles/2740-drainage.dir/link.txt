@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2740-drainage.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2740-drainage.dir/objects.a @CMakeFiles\2740-drainage.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2740-drainage.dir/objects.a -Wl,--no-whole-archive -o 2740-drainage.exe -Wl,--out-implib,lib2740-drainage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2740-drainage.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/2740-drainage.dir/graph/net-flow/2740-drainage.cpp.o  -o 2740-drainage 

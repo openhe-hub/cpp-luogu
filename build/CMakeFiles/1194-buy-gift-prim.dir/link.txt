@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1194-buy-gift-prim.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1194-buy-gift-prim.dir/objects.a @CMakeFiles\1194-buy-gift-prim.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1194-buy-gift-prim.dir/objects.a -Wl,--no-whole-archive -o 1194-buy-gift-prim.exe -Wl,--out-implib,lib1194-buy-gift-prim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1194-buy-gift-prim.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1194-buy-gift-prim.dir/graph/1194-buy-gift-prim.cpp.o  -o 1194-buy-gift-prim 

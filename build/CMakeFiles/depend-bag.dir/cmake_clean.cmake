@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.obj"
-  "CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.obj.d"
-  "depend-bag.exe"
-  "depend-bag.exe.manifest"
+  "CMakeFiles/depend-bag.dir/dp/bag/template/depend-bag.cpp.o"
+  "depend-bag"
   "depend-bag.pdb"
-  "libdepend-bag.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

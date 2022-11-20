@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1351-value.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1351-value.dir/objects.a @CMakeFiles\1351-value.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1351-value.dir/objects.a -Wl,--no-whole-archive -o 1351-value.exe -Wl,--out-implib,lib1351-value.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1351-value.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1351-value.dir/graph/1351-value.cpp.o  -o 1351-value 

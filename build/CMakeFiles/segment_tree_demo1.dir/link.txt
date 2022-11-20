@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\segment_tree_demo1.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\segment_tree_demo1.dir/objects.a @CMakeFiles\segment_tree_demo1.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\segment_tree_demo1.dir/objects.a -Wl,--no-whole-archive -o segment_tree_demo1.exe -Wl,--out-implib,libsegment_tree_demo1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\segment_tree_demo1.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/segment_tree_demo1.dir/segment-tree/segment_tree_demo1.cpp.o  -o segment_tree_demo1 

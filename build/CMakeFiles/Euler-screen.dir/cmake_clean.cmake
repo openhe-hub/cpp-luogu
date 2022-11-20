@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.obj"
-  "CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.obj.d"
-  "Euler-screen.exe"
-  "Euler-screen.exe.manifest"
+  "CMakeFiles/Euler-screen.dir/math/prime/Euler-sieve.cpp.o"
+  "Euler-screen"
   "Euler-screen.pdb"
-  "libEuler-screen.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

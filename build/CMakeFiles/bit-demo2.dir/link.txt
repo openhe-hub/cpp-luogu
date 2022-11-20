@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\bit-demo2.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\bit-demo2.dir/objects.a @CMakeFiles\bit-demo2.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\bit-demo2.dir/objects.a -Wl,--no-whole-archive -o bit-demo2.exe -Wl,--out-implib,libbit-demo2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bit-demo2.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/bit-demo2.dir/_binary-index-tree/bit-demo2.cpp.o  -o bit-demo2 

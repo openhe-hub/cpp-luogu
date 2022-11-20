@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2078-friends.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2078-friends.dir/objects.a @CMakeFiles\2078-friends.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2078-friends.dir/objects.a -Wl,--no-whole-archive -o 2078-friends.exe -Wl,--out-implib,lib2078-friends.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2078-friends.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/2078-friends.dir/union-find/2078-friends.cpp.o  -o 2078-friends 

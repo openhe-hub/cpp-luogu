@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\loj-144-dfn1.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\loj-144-dfn1.dir/objects.a @CMakeFiles\loj-144-dfn1.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\loj-144-dfn1.dir/objects.a -Wl,--no-whole-archive -o loj-144-dfn1.exe -Wl,--out-implib,libloj-144-dfn1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\loj-144-dfn1.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/loj-144-dfn1.dir/tree/dfn/loj-144-dfn1.cpp.o  -o loj-144-dfn1 

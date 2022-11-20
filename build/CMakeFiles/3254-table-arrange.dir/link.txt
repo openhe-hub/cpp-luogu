@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\3254-table-arrange.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\3254-table-arrange.dir/objects.a @CMakeFiles\3254-table-arrange.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3254-table-arrange.dir/objects.a -Wl,--no-whole-archive -o 3254-table-arrange.exe -Wl,--out-implib,lib3254-table-arrange.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3254-table-arrange.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/3254-table-arrange.dir/graph/net-flow/3254-table-arrange.cpp.o  -o 3254-table-arrange 

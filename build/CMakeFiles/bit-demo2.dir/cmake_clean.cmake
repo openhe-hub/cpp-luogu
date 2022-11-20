@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bit-demo2.dir/_binary-index-tree/bit-demo2.cpp.obj"
-  "CMakeFiles/bit-demo2.dir/_binary-index-tree/bit-demo2.cpp.obj.d"
-  "bit-demo2.exe"
-  "bit-demo2.exe.manifest"
+  "CMakeFiles/bit-demo2.dir/_binary-index-tree/bit-demo2.cpp.o"
+  "bit-demo2"
   "bit-demo2.pdb"
-  "libbit-demo2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.obj"
-  "CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.obj.d"
-  "kruskal.exe"
-  "kruskal.exe.manifest"
+  "CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.o"
+  "kruskal"
   "kruskal.pdb"
-  "libkruskal.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

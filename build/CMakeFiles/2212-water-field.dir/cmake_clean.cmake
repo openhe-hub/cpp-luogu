@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2212-water-field.exe"
-  "2212-water-field.exe.manifest"
+  "2212-water-field"
   "2212-water-field.pdb"
-  "CMakeFiles/2212-water-field.dir/graph/2212-water-field.cpp.obj"
-  "CMakeFiles/2212-water-field.dir/graph/2212-water-field.cpp.obj.d"
-  "lib2212-water-field.dll.a"
+  "CMakeFiles/2212-water-field.dir/graph/2212-water-field.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

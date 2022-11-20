@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1364-min-distance.exe"
-  "1364-min-distance.exe.manifest"
+  "1364-min-distance"
   "1364-min-distance.pdb"
-  "CMakeFiles/1364-min-distance.dir/tree/1364-min-distance.cpp.obj"
-  "CMakeFiles/1364-min-distance.dir/tree/1364-min-distance.cpp.obj.d"
-  "lib1364-min-distance.dll.a"
+  "CMakeFiles/1364-min-distance.dir/tree/1364-min-distance.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

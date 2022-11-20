@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\kruskal.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\kruskal.dir/objects.a @CMakeFiles\kruskal.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kruskal.dir/objects.a -Wl,--no-whole-archive -o kruskal.exe -Wl,--out-implib,libkruskal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kruskal.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/kruskal.dir/graph/template/kruskal.cpp.o  -o kruskal 

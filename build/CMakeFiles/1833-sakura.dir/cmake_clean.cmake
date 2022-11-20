@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1833-sakura.exe"
-  "1833-sakura.exe.manifest"
+  "1833-sakura"
   "1833-sakura.pdb"
-  "CMakeFiles/1833-sakura.dir/dp/1833-sakura.cpp.obj"
-  "CMakeFiles/1833-sakura.dir/dp/1833-sakura.cpp.obj.d"
-  "lib1833-sakura.dll.a"
+  "CMakeFiles/1833-sakura.dir/dp/1833-sakura.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1955-analyze-program.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1955-analyze-program.dir/objects.a @CMakeFiles\1955-analyze-program.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1955-analyze-program.dir/objects.a -Wl,--no-whole-archive -o 1955-analyze-program.exe -Wl,--out-implib,lib1955-analyze-program.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1955-analyze-program.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1955-analyze-program.dir/hash/1955-analyze-program.cpp.o  -o 1955-analyze-program 

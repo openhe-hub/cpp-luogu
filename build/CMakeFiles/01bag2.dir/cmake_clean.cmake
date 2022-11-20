@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "01bag2.exe"
-  "01bag2.exe.manifest"
+  "01bag2"
   "01bag2.pdb"
-  "CMakeFiles/01bag2.dir/dp/bag/template/01bag2.cpp.obj"
-  "CMakeFiles/01bag2.dir/dp/bag/template/01bag2.cpp.obj.d"
-  "lib01bag2.dll.a"
+  "CMakeFiles/01bag2.dir/dp/bag/template/01bag2.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

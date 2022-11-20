@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\Erichsen-screen.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\Erichsen-screen.dir/objects.a @CMakeFiles\Erichsen-screen.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Erichsen-screen.dir/objects.a -Wl,--no-whole-archive -o Erichsen-screen.exe -Wl,--out-implib,libErichsen-screen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Erichsen-screen.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.o  -o Erichsen-screen 

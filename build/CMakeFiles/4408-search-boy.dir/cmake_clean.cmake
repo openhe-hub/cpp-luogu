@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "4408-search-boy.exe"
-  "4408-search-boy.exe.manifest"
+  "4408-search-boy"
   "4408-search-boy.pdb"
-  "CMakeFiles/4408-search-boy.dir/tree/4408-search-boy.cpp.obj"
-  "CMakeFiles/4408-search-boy.dir/tree/4408-search-boy.cpp.obj.d"
-  "lib4408-search-boy.dll.a"
+  "CMakeFiles/4408-search-boy.dir/tree/4408-search-boy.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

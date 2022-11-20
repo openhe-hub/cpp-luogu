@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\mixed-bag.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\mixed-bag.dir/objects.a @CMakeFiles\mixed-bag.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\mixed-bag.dir/objects.a -Wl,--no-whole-archive -o mixed-bag.exe -Wl,--out-implib,libmixed-bag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mixed-bag.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/mixed-bag.dir/dp/bag/template/mixed-bag.cpp.o  -o mixed-bag 

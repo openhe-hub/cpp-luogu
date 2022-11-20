@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1972-necklace.exe"
-  "1972-necklace.exe.manifest"
+  "1972-necklace"
   "1972-necklace.pdb"
-  "CMakeFiles/1972-necklace.dir/_binary-index-tree/1972-necklace.cpp.obj"
-  "CMakeFiles/1972-necklace.dir/_binary-index-tree/1972-necklace.cpp.obj.d"
-  "lib1972-necklace.dll.a"
+  "CMakeFiles/1972-necklace.dir/_binary-index-tree/1972-necklace.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

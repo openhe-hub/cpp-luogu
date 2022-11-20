@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.obj"
-  "CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.obj.d"
-  "bellman-ford.exe"
-  "bellman-ford.exe.manifest"
+  "CMakeFiles/bellman-ford.dir/graph/template/bellman-ford.cpp.o"
+  "bellman-ford"
   "bellman-ford.pdb"
-  "libbellman-ford.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

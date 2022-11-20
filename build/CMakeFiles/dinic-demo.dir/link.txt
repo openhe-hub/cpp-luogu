@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\dinic-demo.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\dinic-demo.dir/objects.a @CMakeFiles\dinic-demo.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\dinic-demo.dir/objects.a -Wl,--no-whole-archive -o dinic-demo.exe -Wl,--out-implib,libdinic-demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dinic-demo.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/dinic-demo.dir/graph/net-flow/dinic-demo.cpp.o  -o dinic-demo 

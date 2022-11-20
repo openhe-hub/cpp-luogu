@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1679b-stone-age-problem.dir/segment-tree/1679b-stone-age-problem.cpp.o  -o 1679b-stone-age-problem 

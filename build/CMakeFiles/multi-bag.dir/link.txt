@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\multi-bag.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\multi-bag.dir/objects.a @CMakeFiles\multi-bag.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\multi-bag.dir/objects.a -Wl,--no-whole-archive -o multi-bag.exe -Wl,--out-implib,libmulti-bag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\multi-bag.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/multi-bag.dir/dp/bag/template/multi-bag.cpp.o  -o multi-bag 

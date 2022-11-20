@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\complete-bag.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\complete-bag.dir/objects.a @CMakeFiles\complete-bag.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\complete-bag.dir/objects.a -Wl,--no-whole-archive -o complete-bag.exe -Wl,--out-implib,libcomplete-bag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\complete-bag.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/complete-bag.dir/dp/bag/template/complete-bag.cpp.o  -o complete-bag 

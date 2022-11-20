@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1722c_word_game.dir/simulation/1722c_word_game.cpp.o  -o 1722c_word_game 

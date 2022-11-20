@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2345-cow-market.exe"
-  "2345-cow-market.exe.manifest"
+  "2345-cow-market"
   "2345-cow-market.pdb"
-  "CMakeFiles/2345-cow-market.dir/_binary-index-tree/2345-cow-market.cpp.obj"
-  "CMakeFiles/2345-cow-market.dir/_binary-index-tree/2345-cow-market.cpp.obj.d"
-  "lib2345-cow-market.dll.a"
+  "CMakeFiles/2345-cow-market.dir/_binary-index-tree/2345-cow-market.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

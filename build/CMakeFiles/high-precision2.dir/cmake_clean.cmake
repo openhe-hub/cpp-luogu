@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.obj"
-  "CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.obj.d"
-  "high-precision2.exe"
-  "high-precision2.exe.manifest"
+  "CMakeFiles/high-precision2.dir/high-precision/high-precision2.cpp.o"
+  "high-precision2"
   "high-precision2.pdb"
-  "libhigh-precision2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

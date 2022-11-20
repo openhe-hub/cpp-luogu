@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2023-sequence.exe"
-  "2023-sequence.exe.manifest"
+  "2023-sequence"
   "2023-sequence.pdb"
-  "CMakeFiles/2023-sequence.dir/segment-tree/2023-sequence.cpp.obj"
-  "CMakeFiles/2023-sequence.dir/segment-tree/2023-sequence.cpp.obj.d"
-  "lib2023-sequence.dll.a"
+  "CMakeFiles/2023-sequence.dir/segment-tree/2023-sequence.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

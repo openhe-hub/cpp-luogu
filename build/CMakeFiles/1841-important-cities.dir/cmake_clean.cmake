@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1841-important-cities.exe"
-  "1841-important-cities.exe.manifest"
+  "1841-important-cities"
   "1841-important-cities.pdb"
-  "CMakeFiles/1841-important-cities.dir/graph/1841-important-cities.cpp.obj"
-  "CMakeFiles/1841-important-cities.dir/graph/1841-important-cities.cpp.obj.d"
-  "lib1841-important-cities.dll.a"
+  "CMakeFiles/1841-important-cities.dir/graph/1841-important-cities.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

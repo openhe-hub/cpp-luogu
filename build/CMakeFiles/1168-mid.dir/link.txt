@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1168-mid.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1168-mid.dir/objects.a @CMakeFiles\1168-mid.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1168-mid.dir/objects.a -Wl,--no-whole-archive -o 1168-mid.exe -Wl,--out-implib,lib1168-mid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1168-mid.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1168-mid.dir/heap/1168-mid.cpp.o  -o 1168-mid 

@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.obj"
-  "CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.obj.d"
-  "floyd-demo.exe"
-  "floyd-demo.exe.manifest"
+  "CMakeFiles/floyd-demo.dir/graph/template/floyd-demo.cpp.o"
+  "floyd-demo"
   "floyd-demo.pdb"
-  "libfloyd-demo.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

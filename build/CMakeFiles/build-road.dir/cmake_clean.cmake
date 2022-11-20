@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/build-road.dir/graph/build-road.cpp.obj"
-  "CMakeFiles/build-road.dir/graph/build-road.cpp.obj.d"
-  "build-road.exe"
-  "build-road.exe.manifest"
+  "CMakeFiles/build-road.dir/graph/build-road.cpp.o"
+  "build-road"
   "build-road.pdb"
-  "libbuild-road.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

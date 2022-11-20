@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1841-important-cities.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1841-important-cities.dir/objects.a @CMakeFiles\1841-important-cities.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1841-important-cities.dir/objects.a -Wl,--no-whole-archive -o 1841-important-cities.exe -Wl,--out-implib,lib1841-important-cities.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1841-important-cities.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1841-important-cities.dir/graph/1841-important-cities.cpp.o  -o 1841-important-cities 

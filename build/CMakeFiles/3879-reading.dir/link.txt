@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\3879-reading.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\3879-reading.dir/objects.a @CMakeFiles\3879-reading.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3879-reading.dir/objects.a -Wl,--no-whole-archive -o 3879-reading.exe -Wl,--out-implib,lib3879-reading.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3879-reading.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/3879-reading.dir/string/3879-reading.cpp.o  -o 3879-reading 

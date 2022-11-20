@@ -1,9 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/luogu.dir/main.cpp.obj"
-  "CMakeFiles/luogu.dir/main.cpp.obj.d"
-  "libluogu.dll.a"
-  "luogu.exe"
-  "luogu.exe.manifest"
+  "CMakeFiles/luogu.dir/main.cpp.o"
+  "luogu"
   "luogu.pdb"
 )
 

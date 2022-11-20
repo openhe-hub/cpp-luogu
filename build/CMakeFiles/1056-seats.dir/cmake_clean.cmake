@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "1056-seats.exe"
-  "1056-seats.exe.manifest"
+  "1056-seats"
   "1056-seats.pdb"
-  "CMakeFiles/1056-seats.dir/sort/1056-seats.cpp.obj"
-  "CMakeFiles/1056-seats.dir/sort/1056-seats.cpp.obj.d"
-  "lib1056-seats.dll.a"
+  "CMakeFiles/1056-seats.dir/sort/1056-seats.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

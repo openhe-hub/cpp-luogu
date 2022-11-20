@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.obj"
-  "CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.obj.d"
-  "high-precision-template.exe"
-  "high-precision-template.exe.manifest"
+  "CMakeFiles/high-precision-template.dir/high-precision/high-precision-template.cpp.o"
+  "high-precision-template"
   "high-precision-template.pdb"
-  "libhigh-precision-template.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

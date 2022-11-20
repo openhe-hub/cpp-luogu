@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/1715b-beautiful-array.dir/math/1715b-beautiful-array.cpp.o  -o 1715b-beautiful-array 

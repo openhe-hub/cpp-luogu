@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\3958-cheese.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\3958-cheese.dir/objects.a @CMakeFiles\3958-cheese.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\3958-cheese.dir/objects.a -Wl,--no-whole-archive -o 3958-cheese.exe -Wl,--out-implib,lib3958-cheese.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3958-cheese.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/3958-cheese.dir/graph/3958-cheese.cpp.o  -o 3958-cheese 

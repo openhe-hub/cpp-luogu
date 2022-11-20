@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2212-water-field.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2212-water-field.dir/objects.a @CMakeFiles\2212-water-field.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2212-water-field.dir/objects.a -Wl,--no-whole-archive -o 2212-water-field.exe -Wl,--out-implib,lib2212-water-field.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2212-water-field.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/2212-water-field.dir/graph/2212-water-field.cpp.o  -o 2212-water-field 

@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1364-min-distance.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1364-min-distance.dir/objects.a @CMakeFiles\1364-min-distance.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1364-min-distance.dir/objects.a -Wl,--no-whole-archive -o 1364-min-distance.exe -Wl,--out-implib,lib1364-min-distance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1364-min-distance.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1364-min-distance.dir/tree/1364-min-distance.cpp.o  -o 1364-min-distance 

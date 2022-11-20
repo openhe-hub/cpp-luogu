@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1020-missile-intercept.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1020-missile-intercept.dir/objects.a @CMakeFiles\1020-missile-intercept.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1020-missile-intercept.dir/objects.a -Wl,--no-whole-archive -o 1020-missile-intercept.exe -Wl,--out-implib,lib1020-missile-intercept.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1020-missile-intercept.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1020-missile-intercept.dir/dp/1020-missile-intercept.cpp.o  -o 1020-missile-intercept 

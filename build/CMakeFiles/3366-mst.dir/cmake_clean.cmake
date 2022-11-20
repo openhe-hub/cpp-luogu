@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "3366-mst.exe"
-  "3366-mst.exe.manifest"
+  "3366-mst"
   "3366-mst.pdb"
-  "CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.obj"
-  "CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.obj.d"
-  "lib3366-mst.dll.a"
+  "CMakeFiles/3366-mst.dir/graph/template/3366-mst.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

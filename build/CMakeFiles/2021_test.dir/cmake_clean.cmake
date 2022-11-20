@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "2021_test.exe"
-  "2021_test.exe.manifest"
+  "2021_test"
   "2021_test.pdb"
-  "CMakeFiles/2021_test.dir/test/2021_test.cpp.obj"
-  "CMakeFiles/2021_test.dir/test/2021_test.cpp.obj.d"
-  "lib2021_test.dll.a"
+  "CMakeFiles/2021_test.dir/test/2021_test.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

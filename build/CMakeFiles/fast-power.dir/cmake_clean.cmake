@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/fast-power.dir/high-precision/fast-power.cpp.obj"
-  "CMakeFiles/fast-power.dir/high-precision/fast-power.cpp.obj.d"
-  "fast-power.exe"
-  "fast-power.exe.manifest"
+  "CMakeFiles/fast-power.dir/high-precision/fast-power.cpp.o"
+  "fast-power"
   "fast-power.pdb"
-  "libfast-power.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

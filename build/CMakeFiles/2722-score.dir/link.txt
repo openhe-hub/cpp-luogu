@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2722-score.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2722-score.dir/objects.a @CMakeFiles\2722-score.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2722-score.dir/objects.a -Wl,--no-whole-archive -o 2722-score.exe -Wl,--out-implib,lib2722-score.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2722-score.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/2722-score.dir/dp/2722-score.cpp.o  -o 2722-score 

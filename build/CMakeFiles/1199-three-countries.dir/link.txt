@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1199-three-countries.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1199-three-countries.dir/objects.a @CMakeFiles\1199-three-countries.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1199-three-countries.dir/objects.a -Wl,--no-whole-archive -o 1199-three-countries.exe -Wl,--out-implib,lib1199-three-countries.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1199-three-countries.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1199-three-countries.dir/greedy/1199-three-countries.cpp.o  -o 1199-three-countries 

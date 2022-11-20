@@ -1,10 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.obj"
-  "CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.obj.d"
-  "Erichsen-screen.exe"
-  "Erichsen-screen.exe.manifest"
+  "CMakeFiles/Erichsen-screen.dir/math/prime/Erichsen-sieve.cpp.o"
+  "Erichsen-screen"
   "Erichsen-screen.pdb"
-  "libErichsen-screen.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

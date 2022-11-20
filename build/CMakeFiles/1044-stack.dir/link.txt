@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1044-stack.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1044-stack.dir/objects.a @CMakeFiles\1044-stack.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1044-stack.dir/objects.a -Wl,--no-whole-archive -o 1044-stack.exe -Wl,--out-implib,lib1044-stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1044-stack.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1044-stack.dir/dp/1044-stack.cpp.o  -o 1044-stack 

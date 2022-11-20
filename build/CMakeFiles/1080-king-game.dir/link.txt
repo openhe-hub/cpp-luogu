@@ -1,3 +1,1 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1080-king-game.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1080-king-game.dir/objects.a @CMakeFiles\1080-king-game.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1080-king-game.dir/objects.a -Wl,--no-whole-archive -o 1080-king-game.exe -Wl,--out-implib,lib1080-king-game.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1080-king-game.dir\linklibs.rsp
+/usr/bin/g++  -g   CMakeFiles/1080-king-game.dir/greedy/1080-king-game.cpp.o  -o 1080-king-game 
